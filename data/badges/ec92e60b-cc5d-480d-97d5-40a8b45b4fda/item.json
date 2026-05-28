@@ -1,0 +1,25 @@
+{
+  "id": "ec92e60b-cc5d-480d-97d5-40a8b45b4fda",
+  "name": "Layering Reading, Writing and Discussion - Discussion",
+  "public": true,
+  "type": "badge",
+  "type_value": "badge",
+  "description": "This micro-credential recognizes your engagement with the Layering Reading, Writing and Thinking module and your thoughtful reflection on the layering process.",
+  "tags": [],
+  "image": "public/603d1db-Module 3 Community Sustaining Literacy.png",
+  "inserted_at": "2025-12-12T21:47:46.083742Z",
+  "updated_at": "2025-12-16T20:34:55.539234Z",
+  "user_id": null,
+  "criteria": "**In your post to the [Module 3 discussion](https://participate.community/docs/a9ac5911-3c0c-48e2-ac8d-ae33e902512e?comment_id=6bbfc7f7-9f85-470a-a0a0-9ad626eae0c2)**, reflect on:\n\n* A part of the Layering Reading, Writing, and Discussion process you find especially powerful or promising\n\n* How you see layering supporting students as they work toward writing informed claims\n\n* One challenge or opportunity you imagine for your own learners and/or teaching context\n\n**Be sure to take a few minutes to respond to at least two other teachers’ posts to continue the conversation.**",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/603d1db-Module%203%20Community%20Sustaining%20Literacy.png": "assets/1-Module_3_Community_Sustaining_Literacy.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/603d1db-Module 3 Community Sustaining Literacy.png": "assets/1-Module_3_Community_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/603d1db-Module%203%20Community%20Sustaining%20Literacy.png\" alt=\"The image representing the Layering Reading, Writing and Discussion - Discussion badge\"/></div></div><div title=\"This badge is automatically awarded.\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\" disabled=\"disabled\">\n  Auto-awarded\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Layering Reading, Writing and Discussion - Discussion</h1><h2 class=\"text-xl \">Badge</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>This micro-credential recognizes your engagement with the Layering Reading, Writing and Thinking module and your thoughtful reflection on the layering process.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><p><strong>In your post to the <a href=\"https://participate.community/docs/a9ac5911-3c0c-48e2-ac8d-ae33e902512e?comment_id=6bbfc7f7-9f85-470a-a0a0-9ad626eae0c2\">Module 3 discussion</a></strong>, reflect on:</p><ul><li><p>\nA part of the Layering Reading, Writing, and Discussion process you find especially powerful or promising    </p></li><li><p>\nHow you see layering supporting students as they work toward writing informed claims    </p></li><li><p>\nOne challenge or opportunity you imagine for your own learners and/or teaching context    </p></li></ul><p><strong>Be sure to take a few minutes to respond to at least two other teachers’ posts to continue the conversation.</strong></p></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

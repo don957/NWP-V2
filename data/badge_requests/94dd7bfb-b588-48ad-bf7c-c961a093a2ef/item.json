@@ -1,0 +1,20 @@
+{
+  "id": "94dd7bfb-b588-48ad-bf7c-c961a093a2ef",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2026-03-23T18:28:01.961440Z",
+  "updated_at": "2026-04-09T17:14:41.426309Z",
+  "doc_id": null,
+  "user_id": "bf57b7ef-cfa9-4644-b4d4-64dbb71259c0",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "c30f5fb1-5651-4dcd-99dc-7bfc6aaa0496",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/kayla-peterman\" class=\"underline text-blue-600\">Kayla Peterman</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>The Layered Writing approach is different in how I previously taught writing an argument writing in that I always had the student initially make their claim or take their stance before doing anything else. With the layered writing approach, the students were able to read through information from sources of several different viewpoints and perspectives. I think this will refine how my students view a specific topic by allowing them to see the idea from multiple angles. I think most of the times students are biased towards a certain topic or idea simply because they didn&#39;t realize there were other viewpoints out there. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>I think that overall our talk and discussion in the my classroom is pretty basic. We discuss topics at surface level for the most part. If I carved out more time to allow my class to have conversations about a topic instead of just answering basic questions, the ideas the come out in their writing will be more enhanced as well. I do find that at times when I have tried having those deeper discussion that students will tend to veer off topic quickly or only a few people will offer up ideas and opinions for fear of what others might think.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "97e1b942-7b97-40fd-a577-341143bcac99",
+  "name": "Facilitator Onboarding Complete",
+  "public": true,
+  "type": "badge",
+  "type_value": "certificate",
+  "description": "You’ve completed the first steps in your journey as a facilitator. By introducing yourself and sharing your story, you’ve laid the foundation for authentic connection and community leadership.",
+  "tags": [],
+  "image": "public/4a064a4-14.png",
+  "inserted_at": "2025-08-25T21:33:45.577620Z",
+  "updated_at": "2025-08-26T18:38:34.504839Z",
+  "user_id": null,
+  "criteria": "1. Earn the [First Hello](https://participate.community/badge/44ce5071-47b6-417b-853d-3b412e714ef3) microcredential by posting in the welcome discussion.\n\n2. Earn the [Storyteller: About Me](https://participate.community/badge/e7b181cf-cb47-45e9-bf50-e67075b40a1a) microcredential by creating and publishing your About Me page.",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/4a064a4-14.png": "assets/1-14.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/4a064a4-14.png": "assets/1-14.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/4a064a4-14.png\" alt=\"The image representing the Facilitator Onboarding Complete badge\"/></div></div><div title=\"This badge is automatically awarded.\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\" disabled=\"disabled\">\n  Auto-awarded\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Facilitator Onboarding Complete</h1><h2 class=\"text-xl \">Certificate</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>You’ve completed the first steps in your journey as a facilitator. By introducing yourself and sharing your story, you’ve laid the foundation for authentic connection and community leadership.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><ol><li><p>\nEarn the <a href=\"https://participate.community/badge/44ce5071-47b6-417b-853d-3b412e714ef3\">First Hello</a> microcredential by posting in the welcome discussion.    </p></li><li><p>\nEarn the <a href=\"https://participate.community/badge/e7b181cf-cb47-45e9-bf50-e67075b40a1a\">Storyteller: About Me</a> microcredential by creating and publishing your About Me page.    </p></li></ol></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

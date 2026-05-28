@@ -1,0 +1,20 @@
+{
+  "id": "c7407671-d5f3-4673-bdf2-47ae3895b71d",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-10T00:29:57.783082Z",
+  "updated_at": "2026-02-11T00:16:22.437190Z",
+  "doc_id": null,
+  "user_id": "66f4e1ac-ce09-4b44-8ad9-0c1e2cfb735d",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "3fd58b3b-a59c-47ab-80a9-04a01bd13bd5",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/stephanie-bassman\" class=\"underline text-blue-600\">Stephanie Bassman</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>Visual texts will work best at this point.  Most students are not fully capable of self annotation without jotting notes, partner talk or  class discussion to complete their thoughts.  Having them think to themselves allows them the silence and time to gather thoughts and then bring them into a conversation and transfer that to notes. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>We can highlight the THEY SAY and add our I Say to the text as we read it, first by themselves and then together to help them understand the important parts and how to collect their thoughts. </p><p>I might also add the  &quot;1 Word, 1 Phrase, 1 Sentence&quot; to help them focus. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>Should it be more structured the first time; especially for the 6th grade students who are not familiar with this type of work. Trying the 1 word, etc may help as well. </p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f2bae54e-0237-4485-8cac-4180d1aae44b",
+  "name": null,
+  "type": "form",
+  "version": 4,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "38944528-b948-4ed2-85fe-9fe1e85fa1e2",
+      "label": "What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?",
+      "position": 0,
+      "type": "paragraph",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "4d23eb18-4dce-428e-a1cb-9ef4bbd693d1",
+      "label": "How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?",
+      "position": 1,
+      "type": "text",
+      "options": {},
+      "required": false,
+      "answer": null
+    },
+    {
+      "id": "e934437c-7ea3-4ec2-8fd8-2ae15bc91760",
+      "label": "What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?",
+      "position": 2,
+      "type": "text",
+      "options": {},
+      "required": false,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2025-12-10T19:54:05.129016Z",
+  "updated_at": "2025-12-16T20:30:26.178896Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><div><label for=\"paragraph[0]\" class=\"block text-sm font-medium text-slate-700\">\n  What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[0]\" id=\"paragraph[0]\" placeholder=\"\" aria-describedby=\"paragraph[0]-description\" required=\"required\" data-required=\"data-required\"></textarea></div></div><div><label for=\"text[1]\" class=\"block text-sm font-medium text-slate-700\">\n  How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?\n  \n</label><div class=\"mt-1\"><input id=\"text[1]\" label=\"How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?\" name=\"text[1]\" type=\"text\" class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" placeholder=\"\"/></div></div><div><label for=\"text[2]\" class=\"block text-sm font-medium text-slate-700\">\n  What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?\n  \n</label><div class=\"mt-1\"><input id=\"text[2]\" label=\"What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?\" name=\"text[2]\" type=\"text\" class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" placeholder=\"\"/></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

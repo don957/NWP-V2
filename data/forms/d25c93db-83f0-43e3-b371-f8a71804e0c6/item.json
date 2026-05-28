@@ -1,0 +1,92 @@
+{
+  "id": "d25c93db-83f0-43e3-b371-f8a71804e0c6",
+  "name": null,
+  "type": "form",
+  "version": 4,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "8e0027d5-31de-4c67-85b0-c66a0789b7a1",
+      "label": "Which strategy, tool, or activity did you choose from the courses?",
+      "position": 0,
+      "type": "radio",
+      "options": {
+        "draft_value": "",
+        "values": [
+          "Keeping a Writer’s Notebook",
+          "Image Sparks",
+          "Arguments in a Day",
+          "Quicklist",
+          "They Say / I Say",
+          "Say-Mean-Matter",
+          "Joining a Conversation: Who is at the Table?",
+          "Layering Reading, Writing, and Thinking"
+        ]
+      },
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "103c9deb-153a-402d-894c-b822e328ab87",
+      "label": "Why did you choose this activity? What student need or instructional challenge were you hoping to address?",
+      "position": 1,
+      "type": "paragraph",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "39cac946-5aa6-4088-b5a8-d0ca20707fc3",
+      "label": "Upload evidence of implementation. (lesson plan, student work sample, video reflection, photos, etc.)",
+      "position": 2,
+      "type": "file",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "960725c5-5dd7-4674-8c2e-f66d28cd0d6c",
+      "label": "What was the biggest challenge in implementing this strategy?",
+      "position": 3,
+      "type": "radio",
+      "options": {
+        "draft_value": "",
+        "values": [
+          "Time constraints",
+          "Student resistance to change",
+          "Difficulty with instructional delivery",
+          "Lack of necessary resources"
+        ]
+      },
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "3680034a-1c64-43de-a3ba-5a6788fa3e60",
+      "label": "What changes would you make if you implemented this strategy again?",
+      "position": 4,
+      "type": "checkbox",
+      "options": {
+        "draft_value": "",
+        "values": [
+          "Adjust the timing or pacing of the lesson",
+          "Modify student grouping strategies",
+          "Incorporate more scaffolding and support",
+          "Improve classroom management techniques",
+          "Use different assessment methods to measure success"
+        ]
+      },
+      "required": true,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2025-03-03T19:26:46.357637Z",
+  "updated_at": "2025-03-04T12:44:10.213733Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><label for=\"8e0027d5-31de-4c67-85b0-c66a0789b7a1\" class=\"block text-sm font-medium text-slate-700\">\n  Which strategy, tool, or activity did you choose from the courses?\n  \n    <span class=\"text-red-600\">*</span></label><fieldset id=\"8e0027d5-31de-4c67-85b0-c66a0789b7a1\" class=\"mt-4\"><legend class=\"sr-only\">\n    Which strategy, tool, or activity did you choose from the courses?\n  </legend><div class=\"space-y-4\"><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-0\" name=\"radio[0]\" value=\"0\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 0\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-0\" class=\"block text-sm font-medium text-slate-700\">\n  Keeping a Writer’s Notebook\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-1\" name=\"radio[0]\" value=\"1\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 1\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-1\" class=\"block text-sm font-medium text-slate-700\">\n  Image Sparks\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-2\" name=\"radio[0]\" value=\"2\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 2\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-2\" class=\"block text-sm font-medium text-slate-700\">\n  Arguments in a Day\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-3\" name=\"radio[0]\" value=\"3\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 3\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-3\" class=\"block text-sm font-medium text-slate-700\">\n  Quicklist\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-4\" name=\"radio[0]\" value=\"4\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 4\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-4\" class=\"block text-sm font-medium text-slate-700\">\n  They Say / I Say\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-5\" name=\"radio[0]\" value=\"5\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 5\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-5\" class=\"block text-sm font-medium text-slate-700\">\n  Say-Mean-Matter\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-6\" name=\"radio[0]\" value=\"6\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 6\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-6\" class=\"block text-sm font-medium text-slate-700\">\n  Joining a Conversation: Who is at the Table?\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-7\" name=\"radio[0]\" value=\"7\" title=\"Which strategy, tool, or activity did you choose from the courses? radio choice 7\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-8e0027d5-31de-4c67-85b0-c66a0789b7a1-7\" class=\"block text-sm font-medium text-slate-700\">\n  Layering Reading, Writing, and Thinking\n  \n</label></div></div></fieldset><div><label for=\"paragraph[1]\" class=\"block text-sm font-medium text-slate-700\">\n  Why did you choose this activity? What student need or instructional challenge were you hoping to address?\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[1]\" id=\"paragraph[1]\" placeholder=\"\" aria-describedby=\"paragraph[1]-description\" required=\"required\" data-required=\"data-required\"></textarea></div></div><label for=\"39cac946-5aa6-4088-b5a8-d0ca20707fc3\" class=\"block text-sm font-medium text-slate-700\">\n  Upload evidence of implementation. (lesson plan, student work sample, video reflection, photos, etc.)\n  \n    <span class=\"text-red-600\">*</span></label><div id=\"file-upload-39cac946-5aa6-4088-b5a8-d0ca20707fc3\" class=\"\"><div class=\"mt-1 border-dashed border-2 rounded-md bg-white h-44 p-4 flex justify-center items-center \"><div class=\"flex flex-col items-center\"><div class=\"flex justify-center items-center h-12\"><div class=\"space-y-1 text-center\"><svg xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" viewbox=\"0 0 24 24\" fill=\"currentColor\" class=\"mx-auto h-12 w-12 text-slate-400\"><path d=\"M4 5h13v7h2V5c0-1.103-.897-2-2-2H4c-1.103 0-2 .897-2 2v12c0 1.103.897 2 2 2h8v-2H4V5z\"></path><path d=\"m8 11-3 4h11l-4-6-3 4z\"></path><path d=\"M19 14h-2v3h-3v2h3v3h2v-3h3v-2h-3z\"></path></svg><div class=\"flex text-sm text-slate-600\"><label class=\"relative cursor-pointer rounded-md font-medium text-blue-600 focus-within:outline-none focus-within:ring-2 focus-within:ring-blue-500 focus-within:ring-offset-2 hover:text-blue-600\"><span>Upload a file</span><input id=\"phx-GLPA9X5KEE_cKdFy\" type=\"file\" name=\"upload_2\" class=\"sr-only\" required=\"required\" data-required=\"data-required\"/><input type=\"hidden\" data-unused=\"data-unused\"/></label><p class=\"pl-1\">or drag and drop</p></div><p class=\"text-xs text-slate-500\">\n              Any file\n              <span>\n                up to 10.48576MB\n              </span></p></div></div></div></div><p class=\"mt-2 text-sm text-slate-500\" id=\"file-upload-39cac946-5aa6-4088-b5a8-d0ca20707fc3-description\"></p><div class=\"mt-2 text-red-600 text-sm\"></div></div><label for=\"960725c5-5dd7-4674-8c2e-f66d28cd0d6c\" class=\"block text-sm font-medium text-slate-700\">\n  What was the biggest challenge in implementing this strategy?\n  \n    <span class=\"text-red-600\">*</span></label><fieldset id=\"960725c5-5dd7-4674-8c2e-f66d28cd0d6c\" class=\"mt-4\"><legend class=\"sr-only\">\n    What was the biggest challenge in implementing this strategy?\n  </legend><div class=\"space-y-4\"><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-0\" name=\"radio[3]\" value=\"0\" title=\"What was the biggest challenge in implementing this strategy? radio choice 0\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-0\" class=\"block text-sm font-medium text-slate-700\">\n  Time constraints\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-1\" name=\"radio[3]\" value=\"1\" title=\"What was the biggest challenge in implementing this strategy? radio choice 1\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-1\" class=\"block text-sm font-medium text-slate-700\">\n  Student resistance to change\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-2\" name=\"radio[3]\" value=\"2\" title=\"What was the biggest challenge in implementing this strategy? radio choice 2\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-2\" class=\"block text-sm font-medium text-slate-700\">\n  Difficulty with instructional delivery\n  \n</label></div><div class=\"flex gap-3 items-center\"><input type=\"radio\" id=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-3\" name=\"radio[3]\" value=\"3\" title=\"What was the biggest challenge in implementing this strategy? radio choice 3\" class=\"h-4 w-4 border-slate-300 text-blue-600 focus:ring-blue-600\" required=\"required\" data-required=\"data-required\"/><label for=\"radio-960725c5-5dd7-4674-8c2e-f66d28cd0d6c-3\" class=\"block text-sm font-medium text-slate-700\">\n  Lack of necessary resources\n  \n</label></div></div></fieldset><div class=\"flex gap-2\"><label for=\"3680034a-1c64-43de-a3ba-5a6788fa3e60\" class=\"block text-sm font-medium text-slate-700\">\n  What changes would you make if you implemented this strategy again?\n  \n    <span class=\"text-red-600\">*</span></label><input class=\"appearance-none border-none bg-transparent focus:shadow-none focus:border-none focus:outline-none focus:ring-transparent focus:ring-offset-transparent\" id=\"radio-for-checkboxes-3680034a-1c64-43de-a3ba-5a6788fa3e60\" type=\"radio\" name=\"radio-for-required-checkboxes\" data-required=\"data-required\" required=\"required\" title=\"Dummy radio for requiring set of checkboxes\"/></div><div><div class=\"flex items-center\"><input type=\"hidden\" name=\"checkbox[4][0]\" value=\"false\"/><input type=\"checkbox\" id=\"Adjust the timing or pacing of the lesson\" name=\"checkbox[4][0]\" value=\"true\" label=\"Adjust the timing or pacing of the lesson\" type=\"checkbox\" title=\"What changes would you make if you implemented this strategy again? checkbox choice 0\" class=\"mr-4\"/><label for=\"checkbox[4][0]\" class=\"block text-sm font-medium text-slate-700\">\n  Adjust the timing or pacing of the lesson\n  \n</label></div></div><div><div class=\"flex items-center\"><input type=\"hidden\" name=\"checkbox[4][1]\" value=\"false\"/><input type=\"checkbox\" id=\"Modify student grouping strategies\" name=\"checkbox[4][1]\" value=\"true\" label=\"Modify student grouping strategies\" type=\"checkbox\" title=\"What changes would you make if you implemented this strategy again? checkbox choice 1\" class=\"mr-4\"/><label for=\"checkbox[4][1]\" class=\"block text-sm font-medium text-slate-700\">\n  Modify student grouping strategies\n  \n</label></div></div><div><div class=\"flex items-center\"><input type=\"hidden\" name=\"checkbox[4][2]\" value=\"false\"/><input type=\"checkbox\" id=\"Incorporate more scaffolding and support\" name=\"checkbox[4][2]\" value=\"true\" label=\"Incorporate more scaffolding and support\" type=\"checkbox\" title=\"What changes would you make if you implemented this strategy again? checkbox choice 2\" class=\"mr-4\"/><label for=\"checkbox[4][2]\" class=\"block text-sm font-medium text-slate-700\">\n  Incorporate more scaffolding and support\n  \n</label></div></div><div><div class=\"flex items-center\"><input type=\"hidden\" name=\"checkbox[4][3]\" value=\"false\"/><input type=\"checkbox\" id=\"Improve classroom management techniques\" name=\"checkbox[4][3]\" value=\"true\" label=\"Improve classroom management techniques\" type=\"checkbox\" title=\"What changes would you make if you implemented this strategy again? checkbox choice 3\" class=\"mr-4\"/><label for=\"checkbox[4][3]\" class=\"block text-sm font-medium text-slate-700\">\n  Improve classroom management techniques\n  \n</label></div></div><div><div class=\"flex items-center\"><input type=\"hidden\" name=\"checkbox[4][4]\" value=\"false\"/><input type=\"checkbox\" id=\"Use different assessment methods to measure success\" name=\"checkbox[4][4]\" value=\"true\" label=\"Use different assessment methods to measure success\" type=\"checkbox\" title=\"What changes would you make if you implemented this strategy again? checkbox choice 4\" class=\"mr-4\"/><label for=\"checkbox[4][4]\" class=\"block text-sm font-medium text-slate-700\">\n  Use different assessment methods to measure success\n  \n</label></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

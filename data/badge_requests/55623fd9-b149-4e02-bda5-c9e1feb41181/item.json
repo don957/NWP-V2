@@ -1,0 +1,20 @@
+{
+  "id": "55623fd9-b149-4e02-bda5-c9e1feb41181",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-08T14:58:29.975429Z",
+  "updated_at": "2026-02-17T23:12:11.803783Z",
+  "doc_id": null,
+  "user_id": "5793d9fc-f9bf-4785-84f9-9d29486d62fa",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "4c802b10-ee66-40c0-a827-817baf30bc1c",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/phoebe-pettit\" class=\"underline text-blue-600\">Phoebe Pettit</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>In the past, supporting students with multiple texts or argument writing in an agriculture class has often been more informal and discussion-based, with less emphasis on structured argumentative writing. The Layering Reading, Writing, and Discussion approach feels more intentional and supportive because it breaks the process into clear steps and gives students repeated exposure to ideas before they are asked to form a claim. This process could refine the way I guide students by helping them build background knowledge, understand different perspectives, and use evidence more confidently, even if full argumentative writing is not always the end goal.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>Right now, talk and discussion play a limited but important role in my classroom. Whole-class discussions can be challenging because they are easily disrupted, so I tend to rely more on structured conversations. I’ve tried using paired or small-group discussions with guiding papers or prompts so students have something concrete to focus on while they talk. These opportunities allow students to rehearse ideas before writing, but the biggest challenge is keeping discussions purposeful and on task. With more clear structures and expectations, talk could become a stronger and more meaningful part of the writing process in my classroom.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

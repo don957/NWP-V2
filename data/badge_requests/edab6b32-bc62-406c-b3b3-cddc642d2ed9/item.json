@@ -1,0 +1,21 @@
+{
+  "id": "edab6b32-bc62-406c-b3b3-cddc642d2ed9",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-12-31T16:51:34.660828Z",
+  "updated_at": "2026-01-08T13:38:35.204466Z",
+  "doc_id": null,
+  "user_id": "5db7d423-19bb-466b-8e47-0a15e9b3a64b",
+  "badge_id": "4d7461a3-2cff-4c86-9e7a-38cc46e34f45",
+  "form_entry_id": "a735225c-84f7-4b5a-ac2c-83be0298f607",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png",
+    "public/dd10246-Module 4 Teacher Cultivating Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png",
+    "public/f4b538d-IMG_0509.jpeg": "assets/2-IMG_0509.jpeg"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/anna-cummins\" class=\"underline text-blue-600\">Anna Cummins</a></div><div><b>Badge:</b> <a href=\"/badge/4d7461a3-2cff-4c86-9e7a-38cc46e34f45\" class=\"underline text-blue-600\">Teacher as Researcher: Cultivating Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise?  How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that students are more willing to write than what we think, especially when it&#39;s about themselves. I often get stuck on the formal writing and then kids struggle and lose self-confidence when it comes to writing. I need to be incorporating more freedom in writing throughout the year to keep the self-esteem up! </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Share one artifact or anecdote from trying out your chosen strategy (e.g., a piece of student work, notes from your Writer’s Notebook, a classroom snapshot, or a brief story from the experience).:</div><div class=\"w-64 h-64\"><img class=\"w-full h-full object-cover\" src=\"https://s3.amazonaws.com/participate-community/public/f4b538d-IMG_0509.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVPMUYZRFOOZHXWMJ%2F20260528%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260528T141830Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0206edf3f79499114b9c3232e4ca478fa9e5ee2011c577672431aa88cacdce5b\"/></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What new questions or next steps are you leaving this module with? How might you continue to explore or build on this inquiry in your future teaching?:</div><div class=\"flex flex-col gap-2\"><p>How can I incorporate this type of writing to meet standards and not just be a &quot;for fun&quot; writing thing? Do older students respond the same as younger students when it comes to this strategy? I definitely want to try out the argumentative area for Module 1. I&#39;m wondering if the response to the writing will be the same.</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

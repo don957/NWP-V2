@@ -1,0 +1,45 @@
+{
+  "id": "2fc2a984-9a02-4a30-a48f-43776926e6e1",
+  "name": null,
+  "type": "form",
+  "version": 5,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "4020e427-81ae-428c-9897-54ab038feafc",
+      "label": "Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?",
+      "position": 0,
+      "type": "paragraph",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "26bcdd5a-b085-4e49-93c7-02d7b0256faa",
+      "label": "Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).",
+      "position": 1,
+      "type": "paragraph",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "34cf9bc4-c1e7-405e-b5d4-64496282044c",
+      "label": "What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?",
+      "position": 2,
+      "type": "paragraph",
+      "options": {},
+      "required": false,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2025-03-27T18:06:29.435417Z",
+  "updated_at": "2025-08-25T18:04:53.467189Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><div><label for=\"paragraph[0]\" class=\"block text-sm font-medium text-slate-700\">\n  Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[0]\" id=\"paragraph[0]\" placeholder=\"\" aria-describedby=\"paragraph[0]-description\" required=\"required\" data-required=\"data-required\"></textarea></div></div><div><label for=\"paragraph[1]\" class=\"block text-sm font-medium text-slate-700\">\n  Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[1]\" id=\"paragraph[1]\" placeholder=\"\" aria-describedby=\"paragraph[1]-description\" required=\"required\" data-required=\"data-required\"></textarea></div></div><div><label for=\"paragraph[2]\" class=\"block text-sm font-medium text-slate-700\">\n  What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?\n  \n</label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[2]\" id=\"paragraph[2]\" placeholder=\"\" aria-describedby=\"paragraph[2]-description\"></textarea></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

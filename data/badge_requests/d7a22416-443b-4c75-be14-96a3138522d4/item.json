@@ -1,0 +1,20 @@
+{
+  "id": "d7a22416-443b-4c75-be14-96a3138522d4",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-26T19:03:00.533213Z",
+  "updated_at": "2026-03-30T15:37:30.114036Z",
+  "doc_id": null,
+  "user_id": "47f71bc6-b561-46fe-bfaa-7d4ed6df73ec",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "6657ab98-f18f-4fef-81f0-0c913d425fe8",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/haley-murray\" class=\"underline text-blue-600\">Haley Murray</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>I really like Take a Line for a Walk and Interpreting Visual Texts. I plan to use TALFAW when I read nonfiction pieces in my novel studies units. We are currently reading dystopian literature and using a lot of modern articles from the news, I plan to pull some paragraphs and have students find their lines and combine it with a fishbowl strategy! I think they would eat that up. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I use sentence stems to help students to respond to DOK level 3 and 4 prompts. It has helped so much! I also like quick writes. Those are low prep and easy to incorporate! The issues I have ran into is students not knowing how to get started with writing or knowing how to word their thoughts. The stems are helping that issue!  </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

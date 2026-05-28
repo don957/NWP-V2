@@ -1,0 +1,25 @@
+{
+  "id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "name": "Teacher as Researcher | Sustaining Literacy Routines",
+  "public": true,
+  "type": "badge",
+  "type_value": "micro_credential",
+  "description": "This badge recognizes your participation in a shared teacher-research cycle by preparing, teaching, and reflecting on the Layered Writing lesson sequence with colleagues.",
+  "tags": [],
+  "image": "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png",
+  "inserted_at": "2025-12-12T23:00:34.480800Z",
+  "updated_at": "2025-12-16T20:18:10.574498Z",
+  "user_id": null,
+  "criteria": "**To earn the microcredential for this module, be sure your reflection includes:**\n\n* A clear discussion of what you learned about your teaching and your students through this inquiry cycle.\n\n* A description of one meaningful moment from teaching the lesson sequence, with an explanation of why it stands out and what it reveals about your students, the layering process, or your own instructional decision-making.\n\n* Insights from reviewing your students’ drafts.\n\n* Any questions you have about selecting or preparing student writing to bring to the spring meeting.",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"The image representing the Teacher as Researcher | Sustaining Literacy Routines badge\"/></div></div><div title=\"Submit documentation to earn this badge\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\">\n  Get Started\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Teacher as Researcher | Sustaining Literacy Routines</h1><h2 class=\"text-xl \">Micro-Credential</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>This badge recognizes your participation in a shared teacher-research cycle by preparing, teaching, and reflecting on the Layered Writing lesson sequence with colleagues.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><p><strong>To earn the microcredential for this module, be sure your reflection includes:</strong></p><ul><li><p>\nA clear discussion of what you learned about your teaching and your students through this inquiry cycle.    </p></li><li><p>\nA description of one meaningful moment from teaching the lesson sequence, with an explanation of why it stands out and what it reveals about your students, the layering process, or your own instructional decision-making.    </p></li><li><p>\nInsights from reviewing your students’ drafts.    </p></li><li><p>\nAny questions you have about selecting or preparing student writing to bring to the spring meeting.    </p></li></ul></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

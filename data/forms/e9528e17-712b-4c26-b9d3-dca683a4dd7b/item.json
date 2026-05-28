@@ -1,0 +1,36 @@
+{
+  "id": "e9528e17-712b-4c26-b9d3-dca683a4dd7b",
+  "name": null,
+  "type": "form",
+  "version": 3,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "ce280b8b-56d3-4782-bafb-b1ebde694903",
+      "label": "Type or paste your Say–Mean–Matter response here",
+      "position": 0,
+      "type": "paragraph",
+      "options": {},
+      "required": false,
+      "answer": null
+    },
+    {
+      "id": "8d2898a3-4214-4d02-8437-4b4c17d2a85a",
+      "label": "How might you use the concepts from this chapter in your teaching context?",
+      "position": 1,
+      "type": "paragraph",
+      "options": {},
+      "required": false,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2023-10-26T19:50:51.940627Z",
+  "updated_at": "2023-10-26T20:42:29.797026Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><div><label for=\"paragraph[0]\" class=\"block text-sm font-medium text-slate-700\">\n  Type or paste your Say–Mean–Matter response here\n  \n</label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[0]\" id=\"paragraph[0]\" placeholder=\"\" aria-describedby=\"paragraph[0]-description\"></textarea></div></div><div><label for=\"paragraph[1]\" class=\"block text-sm font-medium text-slate-700\">\n  How might you use the concepts from this chapter in your teaching context?\n  \n</label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[1]\" id=\"paragraph[1]\" placeholder=\"\" aria-describedby=\"paragraph[1]-description\"></textarea></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

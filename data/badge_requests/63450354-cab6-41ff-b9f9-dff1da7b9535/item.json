@@ -1,0 +1,20 @@
+{
+  "id": "63450354-cab6-41ff-b9f9-dff1da7b9535",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-07T21:41:00.181871Z",
+  "updated_at": "2026-04-08T12:17:29.422974Z",
+  "doc_id": null,
+  "user_id": "df27931c-d954-468a-a928-5fdd6f33cbc9",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "60c735bc-1634-4979-8052-543a25537b53",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/tara-o-dell\" class=\"underline text-blue-600\">Tara O&#39;Dell</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>This process is quite a contrast to the way I&#39;ve taught argumentative writing in the past.  I&#39;ve not provided ample resources with a variety of angles, nor have I spent enough time with students talking about multiple perspectives.  I will for sure incorporate some of these strategies into future lessons for argumentative writing.  I</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>Honestly, I don&#39;t do enough discussions with my students.  In retrospect, I am hindering their ability by not giving them time necessary to talk through things in order to come to their own beliefs.  This lesson, in particular, has been eye opening about ways I need to improve my instruction.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

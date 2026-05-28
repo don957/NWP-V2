@@ -1,0 +1,20 @@
+{
+  "id": "a572ef86-2bb4-4679-94dd-6ec3f8a5ac4c",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2026-04-08T14:52:51.588717Z",
+  "updated_at": "2026-04-13T18:50:46.671202Z",
+  "doc_id": null,
+  "user_id": "8695bd8e-4972-4421-a396-13695fa74d33",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "a5d511ad-66c7-4f15-a26c-0b678006809e",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/tomisine-r-bazzell\" class=\"underline text-blue-600\">Tomisine R Bazzell</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>This strategy is much easier than previous strategies because it allows students to summarize, get multiple perspectives, and form their own opinions along each layer. This might refine how students form their own claims because they have multiple sources to look at and build background knowledge from.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>The role of discussion in my class is typically to deepen understanding and allow students to have meaningful conversations. The opportunities that students have to converse are after a reading, during think-pair-share, and about life happenings. I have encountered push back from students because they don&#39;t want to write their opinions, or anything really. My students typically want to copy or have simple writing; anything more and they get frustrated.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

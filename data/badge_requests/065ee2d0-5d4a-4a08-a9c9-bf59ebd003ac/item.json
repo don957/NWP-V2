@@ -1,0 +1,20 @@
+{
+  "id": "065ee2d0-5d4a-4a08-a9c9-bf59ebd003ac",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-16T14:30:55.998598Z",
+  "updated_at": "2026-04-01T14:59:05.270572Z",
+  "doc_id": null,
+  "user_id": "74c65384-8861-44ae-b3eb-49b20d3177d3",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "1789fa01-3bf2-447d-aebe-f7ddfa277a81",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/amanda-sampsel\" class=\"underline text-blue-600\">Amanda Sampsel</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>Take a Line for a Walk</p><p>It is simple and flexible. It would be easy to implement as a warm-up or bell-ringer activity. It encourages students to start writing without overthinking, which is something my students struggle with. I think this strategy would help my students build confidence with writing because there isn&#39;t pressure for it to be perfect. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>Journal prompts, quick-writes, and bell-ringer questions at the beginning of class. These activities help students practice writing regularly and give them time to express their thoughts. One challenge I&#39;ve encountered is that some students are hesitant to write or feel stuck if they don&#39;t immediately have an idea. Because of this, I&#39;m always looking for new strategies that help my students see that writing can come from everyday movements and simple starting points.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

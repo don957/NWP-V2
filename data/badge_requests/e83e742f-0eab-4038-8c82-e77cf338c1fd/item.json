@@ -1,0 +1,20 @@
+{
+  "id": "e83e742f-0eab-4038-8c82-e77cf338c1fd",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-25T22:20:20.479664Z",
+  "updated_at": "2026-02-26T03:57:29.540289Z",
+  "doc_id": null,
+  "user_id": "2f6430fc-4660-442e-a12a-7e3a045906d7",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "e040c6b7-bf11-4519-8488-b078130125d2",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/baily-stevenson\" class=\"underline text-blue-600\">Baily Stevenson</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>From doing the table, I was introduced to other perspectives from reputable sources. I really like how it not only offered opposing opinions, but it provided different viewpoints within the same side. I want to do the same thing for my students to make sure they are looking at a topic from all angles. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>I&#39;ve used a lot of Socratic Discussion to allow students to offer different viewpoints, but I don&#39;t feel like they get the most out of it because they are limited in their own culture and experiences. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>Both offered many different perspectives from either side. The second topic built off the first conversation. I would like to use this with discussions about the benefits and drawbacks of AI. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

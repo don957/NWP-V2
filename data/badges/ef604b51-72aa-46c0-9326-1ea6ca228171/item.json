@@ -1,0 +1,25 @@
+{
+  "id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "name": "Layering Reading, Writing and Thinking",
+  "public": true,
+  "type": "badge",
+  "type_value": "micro_credential",
+  "description": "This microcredential recognizes your reflection on how layering reading, writing, and discussion supports students in developing claims across multiple texts.",
+  "tags": [],
+  "image": "public/97802d5-Module 3 Reflective Sustaining Literacy.png",
+  "inserted_at": "2025-12-12T21:49:45.652189Z",
+  "updated_at": "2025-12-16T20:37:14.355067Z",
+  "user_id": null,
+  "criteria": "To earn the microcredential for this module, be sure your reflection includes:\n\n* A comparison of the Layering Reading, Writing, and Discussion process with how you have previously taught multi-text reading or argument writing.\n\n* Specific insights about what feels familiar, what feels new, and how this approach might shift or refine your instruction moving forward.\n\n* A clear description of the role of talk and discussion in your classroom, including both the opportunities you currently provide and any challenges you encounter.",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"The image representing the Layering Reading, Writing and Thinking badge\"/></div></div><div title=\"Submit documentation to earn this badge\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\">\n  Get Started\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Layering Reading, Writing and Thinking</h1><h2 class=\"text-xl \">Micro-Credential</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>This microcredential recognizes your reflection on how layering reading, writing, and discussion supports students in developing claims across multiple texts.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><p>\nTo earn the microcredential for this module, be sure your reflection includes:</p><ul><li><p>\nA comparison of the Layering Reading, Writing, and Discussion process with how you have previously taught multi-text reading or argument writing.    </p></li><li><p>\nSpecific insights about what feels familiar, what feels new, and how this approach might shift or refine your instruction moving forward.    </p></li><li><p>\nA clear description of the role of talk and discussion in your classroom, including both the opportunities you currently provide and any challenges you encounter.    </p></li></ul></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

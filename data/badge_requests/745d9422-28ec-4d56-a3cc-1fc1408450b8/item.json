@@ -1,0 +1,20 @@
+{
+  "id": "745d9422-28ec-4d56-a3cc-1fc1408450b8",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-12-11T19:15:28.076675Z",
+  "updated_at": "2025-12-29T15:19:13.094508Z",
+  "doc_id": null,
+  "user_id": "7cd47547-be46-47c4-ba31-8081fa24147b",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "8b2290e7-eb4d-45d7-8b66-7363c85e11a2",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/hannah-mitchell\" class=\"underline text-blue-600\">Hannah Mitchell</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I&#39;m going to use this approach with visual texts. I&#39;m going to use visual texts to help us understand propaganda, anti-semitism, and Islamophobia. I think images of hate are very powerful and I wanted students to think critically about what is being said in those types of &quot;texts&quot; so that students can recognize hate and bias when they see it.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>I plan on using the TSIS template to help students reflect. My seventh graders are not naturally reflective in their reading so I will create &quot;stop points&quot; to reflect on TSIS and use sentence starters to support their thinking.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>Making the connect from image to text. We will be learning about the Holocaust and want reflection and conversation to be productive.</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

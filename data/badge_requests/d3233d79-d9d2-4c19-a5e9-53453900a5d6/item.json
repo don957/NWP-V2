@@ -1,0 +1,20 @@
+{
+  "id": "d3233d79-d9d2-4c19-a5e9-53453900a5d6",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-12-22T03:41:11.549062Z",
+  "updated_at": "2025-12-22T19:27:09.341339Z",
+  "doc_id": null,
+  "user_id": "df27a7b1-94ce-4ff9-a269-e40a4a27691b",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "1e63908f-c90e-4dbd-a361-6213c221b849",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/shannon-bicksler\" class=\"underline text-blue-600\">Shannon Bicksler</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I think I would start with the images. I think it might be an easier way to jump in. We can also talk about how authors put messages in images as well and lead into a discussion about images in articles, texts, etc. I know when I have MRI training she talks a lot about reading around the text before you actually read the text. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>We read and analyze a lot of data/graphs in science. I think we could adapt it by having students use &quot;They say&quot; to say what the graph or data is showing. Just what they see. The &quot;I say&quot; part could then be either the student explaining the concept that is happening or why they think the graph or data is showing up in the way it is. I would like to add more texts where they are looking into current science events and they could then make their comments on those and how it relates to what we are learning. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>I&#39;m not sure. I think it will just take practice but I think it will be a beneficial tool in my classroom. I think that the sentence starters and frameworks will also help my students and give them a place to start. </p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

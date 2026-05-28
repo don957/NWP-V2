@@ -1,0 +1,21 @@
+{
+  "id": "87115f0f-f47c-4141-83cf-6d3b31761843",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-01-07T16:10:49.918369Z",
+  "updated_at": "2026-01-07T19:39:48.632856Z",
+  "doc_id": null,
+  "user_id": "3249ab66-89a3-4445-9610-822ec0bec2c4",
+  "badge_id": "4d7461a3-2cff-4c86-9e7a-38cc46e34f45",
+  "form_entry_id": "4a95afc8-9268-4fcf-967f-23072e3284d3",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png",
+    "public/a016df4-Say Mean Matter.png": "assets/2-Say_Mean_Matter.png",
+    "public/dd10246-Module 4 Teacher Cultivating Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/chrystal-pratt\" class=\"underline text-blue-600\">Chrystal Pratt</a></div><div><b>Badge:</b> <a href=\"/badge/4d7461a3-2cff-4c86-9e7a-38cc46e34f45\" class=\"underline text-blue-600\">Teacher as Researcher: Cultivating Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise?  How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I really sat back and realized how dependent we are on technology and AI for writing. My students have really enjoyed taking the time to sit and actually create writing of their own and have made connections I didn&#39;t realize they were lacking.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Share one artifact or anecdote from trying out your chosen strategy (e.g., a piece of student work, notes from your Writer’s Notebook, a classroom snapshot, or a brief story from the experience).:</div><div class=\"w-64 h-64\"><img class=\"w-full h-full object-cover\" src=\"https://s3.amazonaws.com/participate-community/public/a016df4-Say%20Mean%20Matter.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVPMUYZRFOOZHXWMJ%2F20260528%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260528T141730Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ff51ae359e1830ef2c86a549fe5db01680a1e8e9c3a31e8f3fafb54ac0f36cf2\"/></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What new questions or next steps are you leaving this module with? How might you continue to explore or build on this inquiry in your future teaching?:</div><div class=\"flex flex-col gap-2\"><p>I hope to continue this &quot;Say, Mean, Matter&quot; with every class I have. This really helped with making connections in literature and decoding what the author was really trying to say. I also found this useful for teaching figurative language!</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

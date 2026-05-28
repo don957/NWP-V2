@@ -1,0 +1,20 @@
+{
+  "id": "fd7b35e3-88a5-48e2-868e-2c69c1beb224",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-22T19:35:18.603711Z",
+  "updated_at": "2026-04-26T17:21:06.264143Z",
+  "doc_id": null,
+  "user_id": "0e755076-8812-4dcb-8f6e-4ef4194f7756",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "8e7259ac-ae87-465d-865d-77e38d78411e",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/torey-stevens\" class=\"underline text-blue-600\">Torey Stevens</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I have more of a lecture style of teaching. This inquiry cycle has inspired me to have more of a participatory class with more interaction between the students and not just with me during class discussions. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>I had a student state, &quot;I&#39;ve never thought about a topic this hard in my life.&quot; This felt meaningful to me because I have many research assignments/projects but this got them to think of the topic in more depth/detail than those seemed to. I want them thinking in more depth and this helped to show at least one way to do this. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>Some early patterns appear to be focused on &quot;source introductions&quot; - where the source is getting their information. This is good because that is something I stress with them - where is the information from? Can we trust that source? I was really curious to look at earlier grades and see what their writing would be like, and if I&#39;m helping to take my 8th grade students to the next step in their writing journey.. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

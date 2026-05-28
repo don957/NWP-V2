@@ -1,0 +1,27 @@
+{
+  "id": "b1b7ff46-0f59-464e-b6eb-38747989b0a1",
+  "name": null,
+  "type": "form",
+  "version": 3,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "f9f52f19-7bfb-45d3-9e8a-f9160c9cc91a",
+      "label": "Use this interaction to share a link to your copy of the Countering Student Samples document",
+      "position": 0,
+      "type": "text",
+      "options": {},
+      "required": false,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2023-10-26T18:56:27.199513Z",
+  "updated_at": "2023-10-26T20:56:54.303794Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><div><label for=\"text[0]\" class=\"block text-sm font-medium text-slate-700\">\n  Use this interaction to share a link to your copy of the Countering Student Samples document\n  \n</label><div class=\"mt-1\"><input id=\"text[0]\" label=\"Use this interaction to share a link to your copy of the Countering Student Samples document\" name=\"text[0]\" type=\"text\" class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" placeholder=\"\"/></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

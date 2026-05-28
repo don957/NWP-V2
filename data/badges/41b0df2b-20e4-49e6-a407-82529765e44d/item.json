@@ -1,0 +1,25 @@
+{
+  "id": "41b0df2b-20e4-49e6-a407-82529765e44d",
+  "name": "Say-Mean-Matter Discussion",
+  "public": true,
+  "type": "badge",
+  "type_value": "badge",
+  "description": "This badge recognizes your active participation in the course’s learning community. By engaging in meaningful discussions, sharing insights, and responding thoughtfully to peers, you’ve contributed to a rich and collaborative learning experience. Your contributions help build a supportive environment where ideas can flourish, and together, we grow as educators.",
+  "tags": [],
+  "image": "public/6025ad0-Module 3 Community Discussion Cultivating Literacy.png",
+  "inserted_at": "2025-03-03T19:26:46.275248Z",
+  "updated_at": "2025-09-04T00:23:29.579712Z",
+  "user_id": null,
+  "criteria": "* **Respond to a quote or excerpt** using the Say-Mean-Matter Framework.\n\n* Share your response and reflect on the experience in the **[Say-Mean-Matter](https://participate.community/docs/6672cfe1-cef9-44b3-b82f-11b3bf4af905?comment_id=2ad97a27-029e-4a79-9883-65f882a7f2a8)** discussion.\n\n* Respond to at least **two other participants’ posts** to engage in conversation and exchange ideas.",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/6025ad0-Module%203%20Community%20Discussion%20Cultivating%20Literacy.png": "assets/1-Module_3_Community_Discussion_Cultivating_Literacy.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/6025ad0-Module 3 Community Discussion Cultivating Literacy.png": "assets/1-Module_3_Community_Discussion_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/6025ad0-Module%203%20Community%20Discussion%20Cultivating%20Literacy.png\" alt=\"The image representing the Say-Mean-Matter Discussion badge\"/></div></div><div title=\"This badge is automatically awarded.\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\" disabled=\"disabled\">\n  Auto-awarded\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Say-Mean-Matter Discussion</h1><h2 class=\"text-xl \">Badge</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>This badge recognizes your active participation in the course’s learning community. By engaging in meaningful discussions, sharing insights, and responding thoughtfully to peers, you’ve contributed to a rich and collaborative learning experience. Your contributions help build a supportive environment where ideas can flourish, and together, we grow as educators.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><ul><li><p><strong>Respond to a quote or excerpt</strong> using the Say-Mean-Matter Framework.    </p></li><li><p>\nShare your response and reflect on the experience in the <strong><a href=\"https://participate.community/docs/6672cfe1-cef9-44b3-b82f-11b3bf4af905?comment_id=2ad97a27-029e-4a79-9883-65f882a7f2a8\">Say-Mean-Matter</a></strong> discussion.    </p></li><li><p>\nRespond to at least <strong>two other participants’ posts</strong> to engage in conversation and exchange ideas.    </p></li></ul></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

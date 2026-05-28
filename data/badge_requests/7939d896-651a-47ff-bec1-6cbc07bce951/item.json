@@ -1,0 +1,20 @@
+{
+  "id": "7939d896-651a-47ff-bec1-6cbc07bce951",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-05T17:18:31.236163Z",
+  "updated_at": "2026-03-19T00:09:35.966485Z",
+  "doc_id": null,
+  "user_id": "a96c28f5-415c-4816-80f2-4326c5b15a31",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "be16605f-2582-4375-bfbd-404abcb68cba",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/shelly-strickfaden\" class=\"underline text-blue-600\">shelly strickfaden</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>Interpreting visual texts is most immediately usable because I already do something similar in class.  I have been using the NY TIMES picture of the week and asking kids to interpret what it means.  They need to write 2 things they notice and then what it means (what is happening). This has been good for getting kids to think deeper about images and what they are really saying.  We try to go into the image in a deeper way rather than just the surface.  I like the idea of adapting this to be more content specific.  I did use some plastic/garbage infographics for interpretation when we were learning/writing about the garbage patch and that was good.  The students got the content and were able to use it.  Several incorporated the information into their overall writing about the topic.</p><p></p><p>I also like the clock daily schedule idea.  I may try to see if I can incorporate that in some way.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I have tried to get them to sum up the main idea of an article in 10 words or less.  Sometimes that has been much easier than others.  For more complicated concepts, it has been challenging to get them to sum it up that briefly. However, when we read articles we do short writes as we are reading. For example, they will write they keypoint of the paragraph on a post- it.  I have founds that kids really like writing on post-its.  It seems to be non-threatening because it is such a small size.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

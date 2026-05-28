@@ -1,0 +1,20 @@
+{
+  "id": "201a6362-9d0d-49b8-9954-e98bb899d5c2",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-06T18:49:00.817579Z",
+  "updated_at": "2026-04-06T20:00:01.639917Z",
+  "doc_id": null,
+  "user_id": "5db7d423-19bb-466b-8e47-0a15e9b3a64b",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "7caf7d90-d7ac-43eb-b24c-e633f152c351",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/anna-cummins\" class=\"underline text-blue-600\">Anna Cummins</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>The &quot;Take a Line for a Walk&quot; seems like something I can use tomorrow. I have just started a novel with 7th graders, and it would be a great review for after Easter break for me to pull a line for them to &quot;take a walk&quot;. Later on I can have them choose their own lines from certain chapters and what not. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I had students use journal entries to keep track of the Literature Circle reading. This was done weekly. I had certain criteria for them to cover, but I found that some students just wrote what they wanted to talk about with their novel...maybe I should have made it less structured so I could have seen what they were actually getting out of the book. One of my concerns with that is AI, though. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

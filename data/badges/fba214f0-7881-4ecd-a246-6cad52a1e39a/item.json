@@ -1,0 +1,25 @@
+{
+  "id": "fba214f0-7881-4ecd-a246-6cad52a1e39a",
+  "name": "Arguments in Response to Multiple Texts",
+  "public": true,
+  "type": "badge",
+  "type_value": "micro_credential",
+  "description": "Use this micro credential to submit your Toddlers and Technology table and reflection to your Thinking Partner.",
+  "tags": [],
+  "image": "public/7f8da42-78a1450-3.png",
+  "inserted_at": "2023-10-26T19:44:08.547673Z",
+  "updated_at": "2023-10-26T20:43:40.266177Z",
+  "user_id": null,
+  "criteria": "Share your Toddlers and Technology table and reflect: How might you use or adapt the Atwoodian Table for your teaching context?",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/7f8da42-78a1450-3.png": "assets/1-78a1450-3.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/7f8da42-78a1450-3.png": "assets/1-78a1450-3.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/7f8da42-78a1450-3.png\" alt=\"The image representing the Arguments in Response to Multiple Texts badge\"/></div></div><div title=\"Submit documentation to earn this badge\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\">\n  Get Started\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Arguments in Response to Multiple Texts</h1><h2 class=\"text-xl \">Micro-Credential</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>Use this micro credential to submit your Toddlers and Technology table and reflection to your Thinking Partner.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><p>\nShare your Toddlers and Technology table and reflect: How might you use or adapt the Atwoodian Table for your teaching context?</p></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

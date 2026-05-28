@@ -1,0 +1,25 @@
+{
+  "id": "1b36800d-4c9b-430b-933e-ef553c6961d7",
+  "name": "Teacher as Researcher Discussions",
+  "public": true,
+  "type": "badge",
+  "type_value": "badge",
+  "description": "This badge recognizes your participation in the three-part discussion cycle for this module. By posting and responding in each stage—before, during, and after teaching—you contribute to a shared inquiry process where teachers learn from one another’s experiences. Together, these conversations help build a supportive community of teacher-researchers.",
+  "tags": [],
+  "image": "public/9ae696b-Module 1 Community Cultivating Literacy.png",
+  "inserted_at": "2025-02-28T20:52:48.448629Z",
+  "updated_at": "2025-11-19T18:11:30.707614Z",
+  "user_id": null,
+  "criteria": "To earn the discussion badge for this module, be sure to:\n\n* Post in **all three discussions** ([Preparing to Teach](https://participate.community/docs/7fe3efc9-3b1c-4bef-a183-5f69e1766d51), [During Teaching](https://participate.community/docs/d4fbcb24-09a4-4ed7-9637-7dfa01bbb64c), and [After Teaching](https://participate.community/docs/d3ecda66-200f-430c-bda4-45d4c826bc83)).\n\n* Respond to other teachers in each discussion to keep the conversation going.",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9ae696b-Module%201%20Community%20Cultivating%20Literacy.png": "assets/1-Module_1_Community_Cultivating_Literacy.png",
+    "https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon (2).png": "assets/2-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon__2_.png",
+    "public/9ae696b-Module 1 Community Cultivating Literacy.png": "assets/1-Module_1_Community_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col items-stretch gap-8 md:flex-row\"><div class=\"space-y-4\"><div class=\"px-8 py-10 bg-white rounded-lg shadow flex justify-center items-center\"><div class=\"w-32 h-32 rounded-full overflow-hidden shadow-2xl\"><img class=\"w-full h-full object-cover\" src=\"/img/k/public/9ae696b-Module%201%20Community%20Cultivating%20Literacy.png\" alt=\"The image representing the Teacher as Researcher Discussions badge\"/></div></div><div title=\"This badge is automatically awarded.\"><button type=\"button\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 w-full justify-center disabled:opacity-50\" disabled=\"disabled\">\n  Auto-awarded\n</button></div></div><div class=\"flex flex-col gap-8 w-full px-8 py-10 bg-white rounded-lg shadow \"><div class=\"flex flex-col gap-4 md:gap-0 md:flex-row md:justify-between\"><div class=\"text-center md:text-left space-y-4 md:space-y-2\"><h1 class=\"text-4xl font-bold\">Teacher as Researcher Discussions</h1><h2 class=\"text-xl \">Badge</h2></div><div class=\"flex gap-4\"><div class=\"w-12 h-12 overflow-hidden\"><img class=\"w-full h-full object-cover\" src=\"https://participate.community/img/k/public/07728ce-f4b6fcc-logo_image-1602513419-National_Writing_Project_Community_Icon%20%282%29.png\" alt=\"The image representing the National Writing Project issuer\"/></div><div><div>Issuer</div><div><a href=\"https://www.nwp.org\" class=\"text-blue-600 underline\">\n              National Writing Project\n            </a></div></div></div></div><div class=\"border-b border-slate-200\"></div><div class=\"flex flex-col gap-y-6\"><div><h3 class=\"text-2xl font-bold\">Description</h3><div>This badge recognizes your participation in the three-part discussion cycle for this module. By posting and responding in each stage—before, during, and after teaching—you contribute to a shared inquiry process where teachers learn from one another’s experiences. Together, these conversations help build a supportive community of teacher-researchers.</div></div><div><h3 class=\"text-2xl font-bold\">Criteria</h3><div class=\"prose prose-a:text-blue-600 marker:prose-li:text-black first:prose-p:mt-0 prose-p:my-4 last:prose-p:mb-0 text-black leading-normal\"><p>\nTo earn the discussion badge for this module, be sure to:</p><ul><li><p>\nPost in <strong>all three discussions</strong> (<a href=\"https://participate.community/docs/7fe3efc9-3b1c-4bef-a183-5f69e1766d51\">Preparing to Teach</a>, <a href=\"https://participate.community/docs/d4fbcb24-09a4-4ed7-9637-7dfa01bbb64c\">During Teaching</a>, and <a href=\"https://participate.community/docs/d3ecda66-200f-430c-bda4-45d4c826bc83\">After Teaching</a>).    </p></li><li><p>\nRespond to other teachers in each discussion to keep the conversation going.    </p></li></ul></div></div></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

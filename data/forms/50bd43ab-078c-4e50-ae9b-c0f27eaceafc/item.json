@@ -1,0 +1,45 @@
+{
+  "id": "50bd43ab-078c-4e50-ae9b-c0f27eaceafc",
+  "name": null,
+  "type": "form",
+  "version": 5,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "f6fafc3a-4211-4264-bf5b-522815126b25",
+      "label": "Share two of your Harris Moves and a brief explanation of what moves you tried",
+      "position": 0,
+      "type": "text",
+      "options": {},
+      "required": false,
+      "answer": null
+    },
+    {
+      "id": "edc6d856-44cb-4879-b9d3-b8b214814928",
+      "label": "How might the concept of the Harris Moves support your students as they select evidence for their arguments?",
+      "position": 1,
+      "type": "paragraph",
+      "options": {},
+      "required": false,
+      "answer": null
+    },
+    {
+      "id": "7d7c909e-697f-4d53-9faa-19c4aa26c09c",
+      "label": "What thoughts or questions do you have about the Harris Moves and using them in the classroom",
+      "position": 2,
+      "type": "paragraph",
+      "options": {},
+      "required": false,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2023-10-26T19:34:44.341564Z",
+  "updated_at": "2025-03-04T14:48:59.231587Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><div><label for=\"text[0]\" class=\"block text-sm font-medium text-slate-700\">\n  Share two of your Harris Moves and a brief explanation of what moves you tried\n  \n</label><div class=\"mt-1\"><input id=\"text[0]\" label=\"Share two of your Harris Moves and a brief explanation of what moves you tried\" name=\"text[0]\" type=\"text\" class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" placeholder=\"\"/></div></div><div><label for=\"paragraph[1]\" class=\"block text-sm font-medium text-slate-700\">\n  How might the concept of the Harris Moves support your students as they select evidence for their arguments?\n  \n</label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[1]\" id=\"paragraph[1]\" placeholder=\"\" aria-describedby=\"paragraph[1]-description\"></textarea></div></div><div><label for=\"paragraph[2]\" class=\"block text-sm font-medium text-slate-700\">\n  What thoughts or questions do you have about the Harris Moves and using them in the classroom\n  \n</label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[2]\" id=\"paragraph[2]\" placeholder=\"\" aria-describedby=\"paragraph[2]-description\"></textarea></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

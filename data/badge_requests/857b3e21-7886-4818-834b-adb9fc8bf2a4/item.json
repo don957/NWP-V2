@@ -1,0 +1,20 @@
+{
+  "id": "857b3e21-7886-4818-834b-adb9fc8bf2a4",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-12-07T23:15:02.768951Z",
+  "updated_at": "2026-01-08T15:11:09.167332Z",
+  "doc_id": null,
+  "user_id": "35ef25a8-768e-4f03-92df-c322a81c7a76",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "c0c58528-42ce-461e-ac92-3bd7153438d3",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/sarah-almon\" class=\"underline text-blue-600\">Sarah Almon</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I think I would use the They Say/I Say routine with annotation at this current moment in time with my students. We are about to begin looking at texts for an upcoming argumentative unit, and this would be a perfect way to annotate the different articles we will be using. With argumentative reading and writing, students have to be able to distinguish between opposing sides of an argument, and this is often difficult for my 6th graders to do. They Say/I Say might help them better sort through different sides of an argument. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>My students often work with full length articles in the classroom. However, it might benefit my students to practice the They Say/I Say routine with them while looking at these articles in smaller chunks. Many of the articles we read are divided into small sub sections, so this would make it fairly simple to chunk up the texts. When doing the actual annotations, I would also have my students do some color coding. For instance, using a yellow highlighter to symbolize that they &quot;they say&quot; portion is something they agree with and a pink highlighter symbolizes a portion they disagree with. Then, when the students refer back to the articles later on in the unit, they can more easily find the information that they need to reference. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>I like the idea of using the template provided in the module to act as a reference for my students, especially for my ELL students. What other aspects do I need to consider when using this routine with my ELL students? </p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

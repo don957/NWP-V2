@@ -1,0 +1,20 @@
+{
+  "id": "2c9ce599-af61-4c8c-823b-2e395a843728",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-26T19:34:26.330291Z",
+  "updated_at": "2026-03-03T19:13:12.792112Z",
+  "doc_id": null,
+  "user_id": "dbf39d07-e5bd-4e43-bc0f-c060370a7845",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "67d69b65-27ae-4d11-a90c-803eca7d8efc",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/angie-muse\" class=\"underline text-blue-600\">Angie Muse</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>Well, I do PD for teachers and I teach teacher prep courses at UMSL so I can introduce teachers to any of these.  I&#39;ve already had teachers do the daily schedule in an argument workshop.  I&#39;ve done interpreting tools in an argument workshop as well.  I haven&#39;t done tak a line for a walk.   I feel like that has some specific application.  You&#39;d need to be okay if a student&#39;s mind wanders off -topic.  I can see it being more helpful to ELA teachers who are using text as inspo as opposed to people who might be using text to deliver content.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>When I was in the classroom, we used a journal for daily writing seeds.  I did not do a good job of having students do routine reflective writing after texts we were reading.  There was a lot of annotation and summary.   I periodically used a two column chart that was something like They Say I Say. I was wholly beyond  my radar to think of this two column chart as important preparation for academic writing.  Problems with student engagement?????  Getting students to engage deeply with the daily journal was only a wide-spread problem when I didn&#39;t regularly check work or make work an important part of the rest of what was going on in class.  After that, the lack of participation wasn&#39;t wide-spread.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

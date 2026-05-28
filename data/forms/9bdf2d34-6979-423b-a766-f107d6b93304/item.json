@@ -1,0 +1,45 @@
+{
+  "id": "9bdf2d34-6979-423b-a766-f107d6b93304",
+  "name": null,
+  "type": "form",
+  "version": 4,
+  "type_value": "form",
+  "fields": [
+    {
+      "id": "c9dc594e-fe7a-47fa-a5c6-3dadbb9e261a",
+      "label": "Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?",
+      "position": 0,
+      "type": "paragraph",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "f081d929-4450-4149-916d-733d16861cf9",
+      "label": "Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal",
+      "position": 1,
+      "type": "text",
+      "options": {},
+      "required": true,
+      "answer": null
+    },
+    {
+      "id": "2624801d-d151-4f2c-bd6c-936250f95fb1",
+      "label": "As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h",
+      "position": 2,
+      "type": "text",
+      "options": {},
+      "required": true,
+      "answer": null
+    }
+  ],
+  "inserted_at": "2025-12-12T23:00:34.610163Z",
+  "updated_at": "2025-12-12T23:43:46.852397Z",
+  "user_id": null,
+  "asset_errors": [],
+  "asset_map": {},
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"space-y-8\"><div class=\"space-y-6\"><div><form><div class=\"mb-5\"><div class=\"border-b border-slate-200\"><div class=\"sm:flex sm:items-baseline\"><h3 class=\"pb-4 text-lg leading-6 font-medium text-slate-900\">Test Form: </h3><div class=\"mt-4 sm:mt-0 sm:ml-10\"><nav class=\"-mb-px flex space-x-8\" aria-role=\"tabpanel\"></nav></div></div></div></div><div class=\"flex flex-col gap-4 sm:flex-row sm:justify-between\"><div class=\"w-full space-y-5 bg-white rounded-md shadow-md p-4\"><div><label for=\"paragraph[0]\" class=\"block text-sm font-medium text-slate-700\">\n  Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><textarea class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" rows=\"4\" name=\"paragraph[0]\" id=\"paragraph[0]\" placeholder=\"\" aria-describedby=\"paragraph[0]-description\" required=\"required\" data-required=\"data-required\"></textarea></div></div><div><label for=\"text[1]\" class=\"block text-sm font-medium text-slate-700\">\n  Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><input id=\"text[1]\" label=\"Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal\" name=\"text[1]\" type=\"text\" class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" required=\"required\" placeholder=\"\" data-required=\"data-required\"/></div></div><div><label for=\"text[2]\" class=\"block text-sm font-medium text-slate-700\">\n  As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h\n  \n    <span class=\"text-red-600\">*</span></label><div class=\"mt-1\"><input id=\"text[2]\" label=\"As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h\" name=\"text[2]\" type=\"text\" class=\"shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-slate-300 rounded-md\" required=\"required\" placeholder=\"\" data-required=\"data-required\"/></div></div><div class=\"flex justify-end\"><button type=\"submit\" class=\"px-4 py-2 text-sm rounded-md inline-flex items-center border border-transparent font-medium shadow-sm text-white bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500  disabled:opacity-50\">\n  Submit\n</button></div></div></div></form></div></div></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

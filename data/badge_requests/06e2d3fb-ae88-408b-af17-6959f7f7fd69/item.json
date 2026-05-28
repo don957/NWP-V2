@@ -1,0 +1,20 @@
+{
+  "id": "06e2d3fb-ae88-408b-af17-6959f7f7fd69",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-12T22:05:29.621907Z",
+  "updated_at": "2026-03-18T23:47:24.656428Z",
+  "doc_id": null,
+  "user_id": "21a53b53-c174-4005-8c53-53d38cae9297",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "850bbc78-8ca0-46b9-b797-91fc8565d59f",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/angie-kelim\" class=\"underline text-blue-600\">Angie Kelim</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>Like I said in the discussion, I liked this strategy. I feel like it&#39;s bordering on a graphic organizer without really going to far that direction; it also feels like it could be treated or turned into more of a sketchnote-type activity. I think it would be great to start it with some very low-stakes arguments so they can get comfortable with it before really digging into scientific claims. I also think it might be fun to let the kids take turns sitting around a table, making arguments of their own about a given topic, while the others take notes in this format and draw their own conclusions based on what their classmates have presented. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>Honestly we haven&#39;t really dug into arguments or responding to multiple texts thus far, but I do think this strategy might be helpful when we do the four-part text comparisons next week. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>....and now I know why my table looked different from my colleague&#39;s....somehow I missed the first set of excerpts completely! Now that I&#39;ve gone back and taken a look....I think they both give students an opportunity to take in information, process it, and draw their own conclusions. Conversations related to our topics could be wide-ranging, from artificial intelligence usage to zoo ethics. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

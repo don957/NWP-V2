@@ -1,0 +1,20 @@
+{
+  "id": "d79eec2e-0a25-4ce1-affd-ef3d5205f175",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-12T17:47:00.516622Z",
+  "updated_at": "2026-04-06T15:08:47.519033Z",
+  "doc_id": null,
+  "user_id": "2a5a3cb6-1a22-462c-a958-a811aa2e4d16",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "04adb4af-491a-43bf-a50c-62f3370ff09d",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/makenzie-mudd\" class=\"underline text-blue-600\">Makenzie Mudd</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>I have previously scaffolded argumentative writing, but with more discussion and breaking down of the assignment, not by incorporating smaller activities to lead up to the final activity like this. I think that this approach could really help to ease students into the bigger writing and allow them to gain confidence as they progress toward a final product.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>We have a lot of opportunity to discuss in my classroom. While we are working through a text, we incorporate a lot of turn and talk or share out opportunities to bring the students&#39; ideas to light and then we build upon them as we progress through the text. Sometimes, students are reluctant to discuss because they are not confident in their answers but I have been working on guiding questions or initial conversation starters to ignite the conversations.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}
