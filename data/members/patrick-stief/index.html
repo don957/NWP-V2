@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>patrick-stief - Badge Requests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f3f4f6;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        .badge-count {
+            color: #6b7280;
+        }
+        .requests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .request-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .request-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .request-id {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.75rem;
+            color: #9ca3af;
+            word-break: break-all;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../" class="back-link">← Back</a>
+
+        <div class="header">
+            <h1>patrick-stief</h1>
+            <p class="badge-count">8 badge requests</p>
+        </div>
+
+        <div class="requests-grid">
+            <a href="09c36393-c70c-4ba1-8176-3691acf8f3c5/item.html" class="request-card">
+                <div class="request-id">09c36393-c70c-4ba1-8176-3691acf8f3c5</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="608e7ebd-b7fd-4384-8f79-40946924eac5/item.html" class="request-card">
+                <div class="request-id">608e7ebd-b7fd-4384-8f79-40946924eac5</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="955fd0cd-292c-43d5-9566-5c06e39e4587/item.html" class="request-card">
+                <div class="request-id">955fd0cd-292c-43d5-9566-5c06e39e4587</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="9783d9e6-c53c-42bb-b47f-668215b99158/item.html" class="request-card">
+                <div class="request-id">9783d9e6-c53c-42bb-b47f-668215b99158</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="c15e1a2a-f59f-4cfd-b6e7-799b3bc1c5e2/item.html" class="request-card">
+                <div class="request-id">c15e1a2a-f59f-4cfd-b6e7-799b3bc1c5e2</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="d24de844-4d63-456d-ba0e-254de0cc28e3/item.html" class="request-card">
+                <div class="request-id">d24de844-4d63-456d-ba0e-254de0cc28e3</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="e033ba47-6c26-4384-b41c-9c154676e375/item.html" class="request-card">
+                <div class="request-id">e033ba47-6c26-4384-b41c-9c154676e375</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="f8cddd0d-4e41-4daf-bf05-c85cf52116d3/item.html" class="request-card">
+                <div class="request-id">f8cddd0d-4e41-4daf-bf05-c85cf52116d3</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

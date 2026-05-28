@@ -1,0 +1,20 @@
+{
+  "id": "8a7594d2-c5e0-4d1a-8d32-8fef550e8b12",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-16T15:24:13.794905Z",
+  "updated_at": "2026-04-01T15:13:41.499999Z",
+  "doc_id": null,
+  "user_id": "74c65384-8861-44ae-b3eb-49b20d3177d3",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "1178df5b-7aa0-4068-9845-d60853cef851",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/amanda-sampsel\" class=\"underline text-blue-600\">Amanda Sampsel</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>Completing the table helped me see how organizing claims and evidence visually can clarify the relationships between ideas. </p><p>I plan to model it step by step for my students, then give them a smaller set of texts before moving to a full multi-text assignment. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>In the past I have taught using a discussion-based approach. This method provides a more interactive and visual elements. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>The text included a range of perspectives. Seeing them side-by-side highlights the importance of providing texts that provide balance and encourage critical thinking. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

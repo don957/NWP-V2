@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gretchen-haer - Badge Requests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f3f4f6;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        .badge-count {
+            color: #6b7280;
+        }
+        .requests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .request-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .request-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .request-id {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.75rem;
+            color: #9ca3af;
+            word-break: break-all;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../" class="back-link">← Back</a>
+
+        <div class="header">
+            <h1>gretchen-haer</h1>
+            <p class="badge-count">8 badge requests</p>
+        </div>
+
+        <div class="requests-grid">
+            <a href="316cd8e1-3dc9-4095-87de-fa8a7e2c92b8/item.html" class="request-card">
+                <div class="request-id">316cd8e1-3dc9-4095-87de-fa8a7e2c92b8</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="4b8e6615-6acf-47b0-9ebe-62ee0f9c9951/item.html" class="request-card">
+                <div class="request-id">4b8e6615-6acf-47b0-9ebe-62ee0f9c9951</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="55e3a517-70fb-4170-ae76-850a671cca92/item.html" class="request-card">
+                <div class="request-id">55e3a517-70fb-4170-ae76-850a671cca92</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="6c3c5d79-eb95-4bf3-a38e-d770e5ec70f6/item.html" class="request-card">
+                <div class="request-id">6c3c5d79-eb95-4bf3-a38e-d770e5ec70f6</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="84816a49-bb78-476f-b58d-40e2a4f66462/item.html" class="request-card">
+                <div class="request-id">84816a49-bb78-476f-b58d-40e2a4f66462</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="8579c080-d563-4c3b-82fc-f98da7687cf4/item.html" class="request-card">
+                <div class="request-id">8579c080-d563-4c3b-82fc-f98da7687cf4</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="86ba76f3-8541-4f06-aca7-203ad4f1bf49/item.html" class="request-card">
+                <div class="request-id">86ba76f3-8541-4f06-aca7-203ad4f1bf49</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="c347d20b-c4d4-46ea-a3e3-416c6fb53985/item.html" class="request-card">
+                <div class="request-id">c347d20b-c4d4-46ea-a3e3-416c6fb53985</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

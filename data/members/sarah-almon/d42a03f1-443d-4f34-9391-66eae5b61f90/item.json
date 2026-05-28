@@ -1,0 +1,20 @@
+{
+  "id": "d42a03f1-443d-4f34-9391-66eae5b61f90",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-08T15:06:24.478837Z",
+  "updated_at": "2026-04-21T16:07:13.509266Z",
+  "doc_id": null,
+  "user_id": "35ef25a8-768e-4f03-92df-c322a81c7a76",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "ab280dc2-ec47-4c3a-86b6-5659fc26f283",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/sarah-almon\" class=\"underline text-blue-600\">Sarah Almon</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>One insight I gained from this is the importance of exposing students to as many different perspectives as possible. We need to be careful to not steer them in one particular directions, and this type of activity can help with this. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>I have worked with the NWP for several years now, so this is an activity that I have been using for a while now. However, prior to this, we used to focus on one text at a time, and the kids didn&#39;t grasp the point as easily. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>These texts offer different perspectives on the topic, which exposes students to multiple view points. They are also not overwhelming in length, making them more accessible to students. For the students, many of them have younger siblings (or are the younger sibling) and have experience with the topic. Their personal experiences allow them to have a voice at the table. Possible conversations include:  the role of National Parks, young people being able to promote change, and braille acessiblity. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

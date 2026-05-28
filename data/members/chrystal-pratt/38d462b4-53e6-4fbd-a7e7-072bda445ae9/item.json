@@ -1,0 +1,20 @@
+{
+  "id": "38d462b4-53e6-4fbd-a7e7-072bda445ae9",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-07T17:35:22.867169Z",
+  "updated_at": "2026-04-07T18:08:33.182519Z",
+  "doc_id": null,
+  "user_id": "3249ab66-89a3-4445-9610-822ec0bec2c4",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "7cccf5af-7b9b-4111-b974-2368bd07fd96",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/chrystal-pratt\" class=\"underline text-blue-600\">Chrystal Pratt</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that this definitely needs to be done within a week&#39;s time. Stretching it out over a couple of weeks was too far apart. I also learned that my students can really enjoy writing. They liked being able to voice their opinions and argue their point. It shifted my thinking about having a daily writing assignment. My students need exposed to a wider variation of writing assignments.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>I was really surprised about the willingness to participate that went on. I had one student who was always coming up with great ideas and thinking outside of the box wen it came to writing. He was actually a volunteer that wanted to participate. It is so meaningful because my students are often very hesitant to voice their opinions. They are so used to just being told what to do. It revealed to me that even though they struggle, they are capable of independent thinking!</div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>We had to do a guided writing due to the fact that my students are very low. I would really have liked to observe this lesson in a regular education classroom. My questions are about ways to tailor this towards a lower group. I am curious to see how other grade levels did their writing and how they actually incorporated their writing and introduced the topics. My main question is ways I can better individualize this lesson. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

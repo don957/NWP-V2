@@ -1,0 +1,20 @@
+{
+  "id": "4bb40935-08dc-4807-838b-96ac6fef8540",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-16T15:44:09.737048Z",
+  "updated_at": "2026-04-01T15:15:55.914940Z",
+  "doc_id": null,
+  "user_id": "74c65384-8861-44ae-b3eb-49b20d3177d3",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "4b823fef-978e-4e5a-80a3-25efad744836",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/amanda-sampsel\" class=\"underline text-blue-600\">Amanda Sampsel</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>Compared to how I previously taught multi-text reading and argument writing the Layering Reading, Writing, and Discussion process feels more structured and intentional. In the past, I often had students read multiple texts and then jump into writing. I can see this approach shifting my instruction by giving students more scaffolding and supporting deeper thinking before they write.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>Discussion is central to my teaching, as it gives my students the opportunity to share ideas, clarifying their thinking, and engage with their classmates. Currently I use whole-class conversations to support comprehension. A challenge I encounter is that some students dominate discussions while others are hesitant to speak. Using the laying approach could help balance participation in my class, allowing all students to contribute before moving into their writing.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

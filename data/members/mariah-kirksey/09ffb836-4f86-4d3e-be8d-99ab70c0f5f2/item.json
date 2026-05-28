@@ -1,0 +1,20 @@
+{
+  "id": "09ffb836-4f86-4d3e-be8d-99ab70c0f5f2",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-09T19:55:26.189852Z",
+  "updated_at": "2026-03-16T11:57:50.266207Z",
+  "doc_id": null,
+  "user_id": "a5cfc1f1-5fa7-4c8b-9f01-7df706fafa42",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "d793ea62-37d3-4e72-a037-a1551a87e659",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/mariah-kirksey\" class=\"underline text-blue-600\">Mariah Kirksey</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>Take a Line for a Walk seems easy to impliment for a few reasons. First of all, my students are at the very beginning of a novel unit, so pulling out that &quot;line&quot; will be easy. Secondly, it doesn&#39;t take much procedure or lengthy explanation to impliment. Sometimes it&#39;s hard to start a new daily routine in the second half of the year. This activity can be thrown in whenever useful. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I have started including writing prompts in bellwork on Fridays! It gives them a low stakes oppourtunity to write. The challenge is to get them to write in complete sentences, however. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

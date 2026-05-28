@@ -1,0 +1,20 @@
+{
+  "id": "478d4d9f-161d-4176-8ed7-4d1b432d6be0",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-16T00:28:52.741427Z",
+  "updated_at": "2026-04-06T15:12:59.041062Z",
+  "doc_id": null,
+  "user_id": "d4c2ea5c-4ea6-4750-98da-fb96398d6c24",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "5f1ff0f3-cb5e-4c11-983e-5ab72c56f171",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/laura-jones\" class=\"underline text-blue-600\">Laura Jones</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>This approach is different from how I&#39;ve done argument writing before. They usually know beforehand what the claim is going to be, and while I strongly encourage them to look at both sides as we read the texts, they usually focus more on the side they have already made the claim on. I think it will be much more powerful in the future to start with the texts and see what&#39;s out there before I let them make their own claim. Also, I would add more discussion among their peers, especially with peers they do not discuss with as often, to get more perspectives.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>I try to make sure students are able to discuss their thinking with their peers, but they do tend to speak to the same people every time unless I choose their groups. I try to make sure they know what they should be discussing, but they often get off task, both because of their age and the fact we are in a smaller school, so they all know each other well. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "411f02e5-c764-4929-b182-13b569258651",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-05T18:53:46.450837Z",
+  "updated_at": "2026-03-18T23:57:04.210363Z",
+  "doc_id": null,
+  "user_id": "c8c29e60-f40d-4881-9f63-60e987da26aa",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "fa49dca6-2e28-4f37-a63a-1e9e96ac8de7",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/sarah-apple\" class=\"underline text-blue-600\">Sarah Apple</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>I think the key for my students will be seeing a visual of the what the finished table looks like. So even having my own example to show them will be very helpful. Also helping them by listing the voices they need to include at the table. Students often struggle with finding a variety of perspectives from reputable sources. This helps point them in the right direction.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>I like that the table pulls the multiple texts together into one document/organizer. That way the students have a big picture they can reference with all of the gathered input.</div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>I think both of these are issues that students experience in their own lives and would have opinions on. Students have very strong opinions about technology and maybe not &quot;fancy restaurants&quot; but they have probably all experienced out of control children in public and how that impacts those around them.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

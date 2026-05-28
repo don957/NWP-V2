@@ -1,0 +1,20 @@
+{
+  "id": "f5116fcc-9ffc-4375-ad2a-70f8db9497c4",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-28T15:27:00.461156Z",
+  "updated_at": "2026-04-29T22:47:04.479728Z",
+  "doc_id": null,
+  "user_id": "2273a401-decc-4b5a-b7cb-f88c4371ff5d",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "9e8db79d-a290-4dfc-9d42-bdc39143554d",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/matt-loomis\" class=\"underline text-blue-600\">Matt Loomis</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that my honors students can read and understand social studies articles that are written at an adult level.  I have since given them much higher level text passages to read.  Engaging in this process has led me to find more ways to include non-print texts in my lessons.  </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>One of my students used the phrase &quot;usable past&quot; to vividly describe how the painting of Washington and his troops crossing the Delaware River has been used to shape American cultural identify.  It demonstrates how much my students are capable of with careful instructional planning and support.</div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>While looking at the early drafts, I am noticing that students are capable of exceptional work, but they also often make very significant mistakes in sentence structure and grammar.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

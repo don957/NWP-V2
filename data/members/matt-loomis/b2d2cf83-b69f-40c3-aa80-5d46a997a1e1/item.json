@@ -1,0 +1,20 @@
+{
+  "id": "b2d2cf83-b69f-40c3-aa80-5d46a997a1e1",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-01T09:37:02.830419Z",
+  "updated_at": "2026-04-02T22:15:23.461360Z",
+  "doc_id": null,
+  "user_id": "2273a401-decc-4b5a-b7cb-f88c4371ff5d",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "d0d3062d-118f-4ed6-9f51-c65aa6390368",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/matt-loomis\" class=\"underline text-blue-600\">Matt Loomis</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>Interpreting Visual Texts feels most immediately usable.  As a Social Studies teacher, interpreting visual texts can build background knowledge, provide evidence for historical arguments, and lead to productive discussions.  </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I have used sentence and paragraph construction this school year.  My sentence construction strategies are based in methods presented in The Writing Revolution by Judith Hochman and Natalie Wexler.  My paragraph construction activities follow CERCA, which is our secondary writing model that is based in claim-evidence-reasoning.  Students with low motivation and low foundational literacy skills present many challenges to these writing activities.  Many of these learners disengage or rush through these assignments and do not respond to explicit instruction.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

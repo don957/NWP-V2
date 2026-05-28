@@ -1,0 +1,20 @@
+{
+  "id": "9c46ee74-41b1-4053-b33a-b8b0509e36a6",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-26T21:10:29.093455Z",
+  "updated_at": "2026-03-09T16:32:57.324389Z",
+  "doc_id": null,
+  "user_id": "2ac63de5-9f9e-4a2a-b388-43cdc74f201b",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "c95deaae-fda7-455c-ac47-51afce2c76c4",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/abigail-jastal\" class=\"underline text-blue-600\">Abigail Jastal</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>The best fist for my student is using the They Say/ I Say with annotation, because we ware really working on not use reading words but thinking deeper and drawing out information from the text. Using this strategy has help my students talk about what they are reading, and gather information and understanding from conversations with the class. My student have grown in their textual comprehension using their strategy. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>One way that I would adapt this activity to better fit the style of text we are currently reading in class would be to have the students create their own response about the reading and find something from the text that supports it. This help them start working towards more a argumentative writing mindset. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>Honestly, I have a co-teacher so anytime I struggle with creating a lesson plan or knowing how to adapt things I have him as a resource. Having this support in my first year has been exceedingly helpful. </p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

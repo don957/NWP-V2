@@ -1,0 +1,20 @@
+{
+  "id": "dc0dd941-fb71-4f92-a972-175ba7516889",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-09T04:34:14.047587Z",
+  "updated_at": "2026-04-21T18:45:53.435763Z",
+  "doc_id": null,
+  "user_id": "77defc09-3712-43c4-aa18-fb7921d2284a",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "eba491fa-d2ab-4b39-9e6c-9d0ffc92308f",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/katie-eden\" class=\"underline text-blue-600\">Katie Eden</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>Layered Reading, Writing, and Discussion approach allowed students to form their claim after reading the text and then strengthen or adjust their claim as needed.  Students enjoyed the discussion with other students and shared their stance on the argument.  Allowing them to strengthen their claim or adjust their thinking showed that with added layers our thinking can change.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>Turn and talk has been beneficial in my classroom and allows students to collaborate with their peers.  Some challenges have been students only wanting to talk to certain people or shy to share their claim if it is different than others.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

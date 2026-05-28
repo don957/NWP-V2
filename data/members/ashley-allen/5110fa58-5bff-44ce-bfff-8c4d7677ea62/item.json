@@ -1,0 +1,20 @@
+{
+  "id": "5110fa58-5bff-44ce-bfff-8c4d7677ea62",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2026-03-17T15:30:24.899059Z",
+  "updated_at": "2026-04-07T17:58:03.380957Z",
+  "doc_id": null,
+  "user_id": "b364f53b-664a-4b2a-8859-2acd6575be32",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "ccd00d20-2f8f-43ed-84e3-a2a85cccf42d",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/ashley-allen\" class=\"underline text-blue-600\">Ashley Allen</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>I think the layering of the text is very beneficial for students. The fact that they can use several texts to gather their information makes them feel like they have more options. At times, they struggle with finding enough information due to thinking they are looking for huge amounts in small texts. This allows them to realize that they may find bits and pieces here and there, but when they combine the information, they are able to understand better. I think this will shift how I guide students to form their own claims because it gives them more information and builds a better understanding. That will allow student to gave an easier time figuring out what their own claim may be. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>We are currently increasing opportunities in our classroom for talking and discussion. We are pushing towards a student led way of learning and it is going well. We provide students lots of opportunities to converse about their learning through the use of many different protocols. Challenges that we have encountered in making talk a meaningful part of the writing process would be when students end up just copying each other&#39;s writing because through discussion they decide they are both interested in the same things or have had similar experiences. It is difficult to get them to come up with their own ideas at times. These strategies do seem to be helping with this though.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

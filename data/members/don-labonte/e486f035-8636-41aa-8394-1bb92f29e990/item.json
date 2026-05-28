@@ -1,0 +1,20 @@
+{
+  "id": "e486f035-8636-41aa-8394-1bb92f29e990",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2023-10-26T21:05:45.215931Z",
+  "updated_at": "2024-10-17T18:22:16.646911Z",
+  "doc_id": null,
+  "user_id": "81f82e15-01e3-4f48-9b35-1030b22c6983",
+  "badge_id": "07d61a48-fed7-4cc0-a1d4-58269fd379f7",
+  "form_entry_id": "d11c438e-43ac-4847-b98e-1dfda5509f6c",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/1c7278e-9af8939-2.png": "assets/1-9af8939-2.png",
+    "public/1c7278e-9af8939-2.png": "assets/1-9af8939-2.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/1c7278e-9af8939-2.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/Don\" class=\"underline text-blue-600\">Don LaBonte</a></div><div><b>Badge:</b> <a href=\"/badge/07d61a48-fed7-4cc0-a1d4-58269fd379f7\" class=\"underline text-blue-600\">Exploring Argument in our Lives</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Post a link to your schedule or quick list image here:</div><div class=\"flex flex-col gap-2\"><p>fsadgdfagas</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What potential argument topic(s) did you discover? How might you use these approaches with students in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>sdfgdsfgdfsgdfsg</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

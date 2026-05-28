@@ -1,0 +1,21 @@
+{
+  "id": "03f1420c-6eb6-4cca-a120-224636fdcf3c",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2025-12-30T20:42:01.679691Z",
+  "updated_at": "2026-03-01T01:32:12.581213Z",
+  "doc_id": null,
+  "user_id": "97e34ce7-d0ec-401a-a861-d921de22646a",
+  "badge_id": "4d7461a3-2cff-4c86-9e7a-38cc46e34f45",
+  "form_entry_id": "f0f0f25d-b528-4765-8c8d-f0417c89ae27",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png",
+    "public/752485d-IMG_5781.jpeg": "assets/2-IMG_5781.jpeg",
+    "public/dd10246-Module 4 Teacher Cultivating Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/katherine-deboer\" class=\"underline text-blue-600\">Katherine DeBoer</a></div><div><b>Badge:</b> <a href=\"/badge/4d7461a3-2cff-4c86-9e7a-38cc46e34f45\" class=\"underline text-blue-600\">Teacher as Researcher: Cultivating Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise?  How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that I need to slow down and resist stepping in to help a student at the first sign of struggle. I know this has been a habit of mine in the past, and it is something I still need to be mindful of. I also had a preconceived notion that my students this year would give significant pushback on a long, handwritten assignment. I was pleasantly surprised to see that, for the most part, they settled in, took their time, and produced quality work. Several students even proudly asked me to read their work before turning it in.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Share one artifact or anecdote from trying out your chosen strategy (e.g., a piece of student work, notes from your Writer’s Notebook, a classroom snapshot, or a brief story from the experience).:</div><div class=\"w-64 h-64\"><img class=\"w-full h-full object-cover\" src=\"https://s3.amazonaws.com/participate-community/public/752485d-IMG_5781.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVPMUYZRFOOZHXWMJ%2F20260528%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260528T141610Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d8e763ed43dec7e8fdbae8047c9235ee7e76c7ff4ab7a30f0343ea877c319b95\"/></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What new questions or next steps are you leaving this module with? How might you continue to explore or build on this inquiry in your future teaching?:</div><div class=\"flex flex-col gap-2\"><p>I definitely want to continue incorporating quick writes and the Say, Mean, Matter strategy into my weekly activities. When we return in January, I will begin a unit on Ancient China. I anticipate using a similar activity to the one we completed previously, but this time with quotes from Confucius. I will also use images displayed on the smart board as anticipatory prompts for quick write activities to help engage students and build background knowledge.</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

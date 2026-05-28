@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shaylee-rademacher - Badge Requests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f3f4f6;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        .badge-count {
+            color: #6b7280;
+        }
+        .requests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .request-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .request-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .request-id {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.75rem;
+            color: #9ca3af;
+            word-break: break-all;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../" class="back-link">← Back</a>
+
+        <div class="header">
+            <h1>shaylee-rademacher</h1>
+            <p class="badge-count">8 badge requests</p>
+        </div>
+
+        <div class="requests-grid">
+            <a href="2c126cd9-d0ce-4311-952b-3ef7d8128a49/item.html" class="request-card">
+                <div class="request-id">2c126cd9-d0ce-4311-952b-3ef7d8128a49</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="7f214ecf-5527-4731-a265-168824558ead/item.html" class="request-card">
+                <div class="request-id">7f214ecf-5527-4731-a265-168824558ead</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="87f2a2a0-630e-43db-88b7-357e097f8f1a/item.html" class="request-card">
+                <div class="request-id">87f2a2a0-630e-43db-88b7-357e097f8f1a</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="be429c3b-a53d-458b-bb5f-d9792e4f20ef/item.html" class="request-card">
+                <div class="request-id">be429c3b-a53d-458b-bb5f-d9792e4f20ef</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="c10fc93d-9e28-4513-8d92-04d1a74b89df/item.html" class="request-card">
+                <div class="request-id">c10fc93d-9e28-4513-8d92-04d1a74b89df</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="d4656355-34ce-447f-98f3-3e2f6d5fc69e/item.html" class="request-card">
+                <div class="request-id">d4656355-34ce-447f-98f3-3e2f6d5fc69e</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="e41ee686-aeb2-4cda-911f-3106bf8d245e/item.html" class="request-card">
+                <div class="request-id">e41ee686-aeb2-4cda-911f-3106bf8d245e</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="ffceff6e-4742-4118-9a6b-6112df9f456d/item.html" class="request-card">
+                <div class="request-id">ffceff6e-4742-4118-9a6b-6112df9f456d</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

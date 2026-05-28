@@ -1,0 +1,20 @@
+{
+  "id": "30105721-309f-42c9-80ef-b76b7a726732",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-07T01:12:19.983675Z",
+  "updated_at": "2026-04-21T14:00:08.841061Z",
+  "doc_id": null,
+  "user_id": "5db7d423-19bb-466b-8e47-0a15e9b3a64b",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "7bcd1bc1-0061-46ea-b9a7-c2eb99165749",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/anna-cummins\" class=\"underline text-blue-600\">Anna Cummins</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>I haven&#39;t used more than 2 texts when having students write arguments. I guess I always felt like it was too much information for them to cite and use. However, I see now that the text don&#39;t have to be long and that there&#39;s a wide array of opinions/sides to a subject that need to be addressed. Teachers don&#39;t typically think that videos or infographics, etc are &quot;texts&quot;, but this process revealed that they can be!  I&#39;m excited to do this again before school ends!</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>The tole of talk and discussion is essential when students are trying to make their claims. Their peers can change their minds or bring out certain parts of texts that might have be missed. Students don&#39;t get to talk about meaningful topics in their daily lives, so this process provides that time.  My 7th graders can get off topic when it comes to giving them that discussion time, so I usually have to bring everyone back together quicker and maybe have some volunteers share what they said to their partner or group. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "20271e28-3f6a-4d84-827e-637a64cf0729",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-10T18:32:09.144861Z",
+  "updated_at": "2026-04-01T14:55:44.725442Z",
+  "doc_id": null,
+  "user_id": "26590a87-cc39-43eb-a53f-99ab3e8b6f1e",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "5b8889b5-ed69-42c1-abfc-e789686b966f",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/adam-rich\" class=\"underline text-blue-600\">Adam Rich</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>Visual Texts was the strategy that I was able to naturally implement in my class. Social Studies routinely utilizes charts, maps, and pictures to communicate important concepts or essential information. I like to introduce a topic by showing art and ask students to identify what they see and what they wonder. Visual Texts are effective, I just need to be reminded to use them from time to time.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I frequently use charts to help students gather and organize their thinking about content knowledge. Normally, there is a column for text evidence and another for student responses. A challenge I face is help student explain their thinking when they explain how evidence supports their answer.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

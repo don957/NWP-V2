@@ -1,0 +1,20 @@
+{
+  "id": "3b0937ef-d8a1-433c-acb4-072957df2b87",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-08T23:38:25.013859Z",
+  "updated_at": "2026-04-09T16:19:41.231480Z",
+  "doc_id": null,
+  "user_id": "cc72b52e-7a85-44a6-9afc-4ce52567944f",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "9c6c89d5-2819-4202-a3f3-de820e8192b0",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/isabella-orozco\" class=\"underline text-blue-600\">Isabella Orozco</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned how to give students more agency in understanding and working through texts. Before, I had my  anticipate understanding or outcomes planned and did not offer as many different perspectives or layers as I probably could have. This also shifted my idea of how to work through text sets to have students start writing and just continue rather than wait until the end of reading all texts within the text set to really engage deeply. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>A student who has never willingly given his opinion out loud in class before was one of the first people to engage in class discussion and share his opinion. I found this very powerful. I think when I framed it by saying &quot;as long as you can back up your opinion with evidence, there really isn&#39;t a wrong answer&quot;, it lowered the stakes and he felt ready to participate. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>I am hoping to see if anyone has suggestions to push use of the conventions within writing in a way that is efficient and effective for high schoolers. They really struggle with academic format. Some of the general trends I saw were difficulties with making a clear claim. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "220fce79-5ee6-4490-aa26-94a6a0d0312f",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-17T20:44:22.764944Z",
+  "updated_at": "2026-04-06T19:24:51.379723Z",
+  "doc_id": null,
+  "user_id": "f858c25f-3105-4520-a095-0ed5a69d2942",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "83e44afa-bba1-41c9-a6fa-5fe05d3e7370",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/jessica-kennedy\" class=\"underline text-blue-600\">Jessica Kennedy</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>One strategy from this module that feels most immediately usable in my teaching context is Interpreting Visual Texts. As a science teacher, I already incorporate many visuals such as graphs, diagrams, and models, so this strategy fits naturally into my existing lessons. What stood out to me is the reminder that just because students frequently see visuals does not mean they know how to interpret them. By intentionally guiding students with questions and structured discussion, I can help them analyze patterns, make inferences, and connect visuals to scientific concepts. This approach not only strengthens their content understanding but also builds critical literacy skills that they can apply across subjects.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>In addition to this strategy, I have used other approaches this year to sustain routine writing, such as quick writes, exit tickets, and short response questions tied to daily lessons. These activities give students regular opportunities to express their thinking and reflect on what they are learning. However, one challenge I have encountered is maintaining student engagement and depth in their writing, as some students tend to give brief or surface-level responses. Another challenge is finding the time to consistently incorporate meaningful writing without taking away from content instruction. This module has helped me see how strategies like interpreting visual texts can naturally integrate writing into content areas, making it more purposeful and engaging for students.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1f7b63b5-ead2-49f5-8c21-b13927c1d42e",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-22T19:11:30.471500Z",
+  "updated_at": "2026-04-26T17:14:44.987496Z",
+  "doc_id": null,
+  "user_id": "0e755076-8812-4dcb-8f6e-4ef4194f7756",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "bf0b6e2d-ba8b-4414-b99a-b5b9ea95ebc8",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/torey-stevens\" class=\"underline text-blue-600\">Torey Stevens</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>I like all of them, but interpreting Visual texts feels like it will hit more of my standards - descriptive writing, inference, analysis, interpretation (if there is an adaptation component), etc. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>We have consistently used the R.A.C.E. strategy when we read a short story or a longer novel to help answer questions. This has been consistent and used at least once if not more a week. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

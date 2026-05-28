@@ -1,0 +1,20 @@
+{
+  "id": "3986dda5-cd5d-4bcc-b16e-6d0ba0b6d3d1",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-09-03T16:51:48.591945Z",
+  "updated_at": "2025-09-04T15:04:24.212563Z",
+  "doc_id": null,
+  "user_id": "ec15387c-7ea6-4a63-af57-0e765d20c38e",
+  "badge_id": "e7b181cf-cb47-45e9-bf50-e67075b40a1a",
+  "form_entry_id": "37f97664-8950-4656-aa3f-fbc3baf57a71",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/c657cb8-13.png": "assets/1-13.png",
+    "public/c657cb8-13.png": "assets/1-13.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/c657cb8-13.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/julie\" class=\"underline text-blue-600\">Julie Ertmann</a></div><div><b>Badge:</b> <a href=\"/badge/e7b181cf-cb47-45e9-bf50-e67075b40a1a\" class=\"underline text-blue-600\">Storyteller: About Me</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Share a link to your About Me page here!:</div><div>https://participate.community/docs/9835ddab-e02d-4ca7-987a-585d83af15d8</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

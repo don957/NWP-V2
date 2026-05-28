@@ -1,0 +1,20 @@
+{
+  "id": "a17149d6-3fcf-4794-b960-4809c1c153d3",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-05T21:12:36.629478Z",
+  "updated_at": "2026-04-01T14:54:26.430064Z",
+  "doc_id": null,
+  "user_id": "81c0b5cd-d93a-48f6-ae32-2de6919b642b",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "548879a3-3cf5-4f91-9d9d-0aa945007968",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/breanna-smith\" class=\"underline text-blue-600\">Breanna Smith</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>I often had students read a text, a few sources, or even just a topic strip and then move fairly quickly into a written response or argument. When I would attempt to have discussion, it wasn&#39;t always structured. With layering the process feels more intentional because students run through reading, informal writing, and discussion in stages. This gives them more time to process ideas from each text and think about the evidence before forming a claim. This process could refine how I guide students towards forming their own claims because it emphasizes on developing ideas gradually. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>In my classroom, talk and discussion play an important role. We are always trying out new protocols with plenty of opportunities to get students up, moving, talking, and discussing. My students will meet with their clock partners after each questioned they answered and compare answers and discuss. If they both have the same (correct) answer, they discuss the evidence in the article that lead them to that answer. If they have different answers, they are to debate who is right and why, using evidence in the article to back them up. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

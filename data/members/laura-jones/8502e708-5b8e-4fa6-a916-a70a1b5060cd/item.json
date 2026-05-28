@@ -1,0 +1,20 @@
+{
+  "id": "8502e708-5b8e-4fa6-a916-a70a1b5060cd",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-11-20T00:34:59.572898Z",
+  "updated_at": "2025-11-24T03:27:56.870439Z",
+  "doc_id": null,
+  "user_id": "d4c2ea5c-4ea6-4750-98da-fb96398d6c24",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "e000dabf-d48e-44d8-8e4a-1d520fb533b5",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/laura-jones\" class=\"underline text-blue-600\">Laura Jones</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I would say the visual texts version of this would fit my students best right now. I teach 6th graders, so having an easy way to connect this idea to them to start would be the best way to go. They already get a lot of their information from Memes and TikToks, so having short, easy text to analyze to begin is a way to build those connections.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>We read a lot of different texts, but I do know students I have had in the past struggle with reading visuals within articles. I would use this method with that type of text, and then move on to finding more examples of similar information within the article.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>How would I be able to pull in students who are reluctant to interpret, or don&#39;t know where to start on the I Say portion of it. I have a few students that fear being &quot;wrong&quot;.</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

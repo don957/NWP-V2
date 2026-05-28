@@ -1,0 +1,20 @@
+{
+  "id": "cf7a5bfc-a179-4fe2-b748-640ec04649fe",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-11-23T17:24:53.781661Z",
+  "updated_at": "2025-12-10T05:37:58.227541Z",
+  "doc_id": null,
+  "user_id": "a96c28f5-415c-4816-80f2-4326c5b15a31",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "3bb2e217-6b24-4f4a-9cf0-e89eb2fa54c5",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/shelly-strickfaden\" class=\"underline text-blue-600\">shelly strickfaden</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I would start with the visual texts because I think it would be an easier introduction as we already do something kind of like this.  I put up a picture (NY times picture of the week) and ask the students to write 2 things they notice and then say what do they think it means/what is happening in the picture.  I do this because as scientists it is really important to notice things and think about what conclusions you can make from what you see (what is it telling you).  I think building in the they say/I say routine may flow naturally into this and I could use it as a bellwork even??</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>My students most often read foundational articles (texts)-- they try to read the text to get an introduction to or better understanding of a topic.  We are currently working on trying to &quot;get&quot; the main point of each paragraph- why it is there, what does the author want you to know.  I would be hesitant to mess with texts or teach another way of interpreting texts until students get the keypoint down.  I want them to eventually be able to annotate an article so they get the keypoint from it from the margin notes and don&#39;t have to go back and reread the whole thing.</p><p></p><p>I do think I may try the visual text routine.  I really think that could be a useful way to get students thinking (and thinking more deeply).</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>I could use more examples of visual text that provoke thought or challenge students in a science context.</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

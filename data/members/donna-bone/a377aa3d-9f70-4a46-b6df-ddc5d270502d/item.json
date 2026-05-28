@@ -1,0 +1,20 @@
+{
+  "id": "a377aa3d-9f70-4a46-b6df-ddc5d270502d",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2026-04-07T17:45:01.407582Z",
+  "updated_at": "2026-04-08T14:51:05.723184Z",
+  "doc_id": null,
+  "user_id": "9761d6f5-c104-49dc-86fb-ac5d69e59975",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "33730dc9-8b64-467a-8754-14b11b8f3f46",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/donna-bone\" class=\"underline text-blue-600\">Donna Bone</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that my students obtained a deeper understanding because the whole process of reading, writing and discussion are connected.  My students understood better during discussion , instead of writing. They also understood and expressed ideas more clearly during the writing portion.  Speaking to a group still causes some of my students to be hesitant, and learning there are varied ways to learn helps them overcome some of this hesitance.  </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>One moment that stands out is when students realized that not all states actually observe Daylight Savings Time.  This actually opened another opportunity for researching, writing, and discussion. They are seeing that every topic is not cut and dried, that each topic can open up ways to explore additional ones.  </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>I am curious, as a teacher of Special Education, how my students collaborate and their discussions when compared with same age peers. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

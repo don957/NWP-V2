@@ -1,0 +1,20 @@
+{
+  "id": "73f82dac-c4ff-4f14-b1da-ca32eb8414da",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-08T01:31:59.809157Z",
+  "updated_at": "2026-04-09T13:30:39.865604Z",
+  "doc_id": null,
+  "user_id": "3da877c2-02b2-47d8-a1fe-376ef3cee27c",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "b0921ef0-50fd-4b8d-96ad-924bb8d7c2b0",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/sandy-degonia\" class=\"underline text-blue-600\">Sandy DeGonia</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>To be honest, this was difficult. I love the strategies, but this last task was frustrating for my students. I am a special education/behavioral/resource teacher, and we work on assignments from their other teachers. I usually do not present this type of lesson.  In the end, the majority of the writings were “scribed” to alleviate the frustration. I knew we would need to modify and accommodate, and we did. I did like the way the process was laid out in the slideshow. If this were a fall assignment, I might have gotten more interest and less frustration. But I have learned more creative strategies to help my students who struggle with writing. </p><p></p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>“Ooh, I said that?” when being reminded of their comment during our group discussion. Some students struggle to express themselves. I was scribing for a student, but they ran out of thoughts. I reminded them of a discussion and what they said in response. That is when they commented. It still makes me smile. I also like the “Heck, no!” comment on one of the samples. I can hear his voice every time I read it. * Group discussions are just as important as the writing. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>I noticed that they will need to learn about the repetition of words in their writing. I love it when my students’ personalities emerge in their writings. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

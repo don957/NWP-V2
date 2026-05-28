@@ -1,0 +1,20 @@
+{
+  "id": "65b8e1a0-e26d-49eb-a27a-3b7c654b8b9d",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-11-19T02:52:38.761021Z",
+  "updated_at": "2025-11-19T13:43:45.546203Z",
+  "doc_id": null,
+  "user_id": "46bd3f8e-85b5-4ca2-a69b-9e2487a19f0d",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "8235c963-836c-4a36-9d91-465ab827c6ff",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/leigh-a-rogers\" class=\"underline text-blue-600\">Leigh A Rogers</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I already use annotations in my classroom, so I feel I can easily continue to include annotating texts in my classroom. I really like the idea of including visual texts as well though. I feel like I always know visual literacy is important and want to incorporate it, then do in a few places, but then forget about it under the mountain that is all the other material I am trying to cover. However, I love the idea of the visual texts being quick writes, and I feel I could work to incorporate those as well, but I will probably wait to do more of those second semester or even next year. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>My students read a lot of choice books. All annotation assignments I have in my classroom are over shared texts (i.e., the opening of Night), but I would like to incorporate more annotated reading with their independent reading books by utilizing post-it notes. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>I like having more controlled annotations so that I can associate a point-value to them. As I work to incorporate annotations with student choice reading books, I would like to focus those annotations on small assignments related to priority standards in the unit we are covering. Students in my class read for 20 minutes on Mondays, Wednesdays, and Fridays. I could introduce what students should be searching for in their reading on Mondays, then have students reflect on one part of their annotations in relation to the priority standard through a quick write at the end of the week. </p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

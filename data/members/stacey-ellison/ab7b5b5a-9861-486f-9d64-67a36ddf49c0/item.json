@@ -1,0 +1,20 @@
+{
+  "id": "ab7b5b5a-9861-486f-9d64-67a36ddf49c0",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-08T11:14:21.168523Z",
+  "updated_at": "2026-04-21T14:29:32.737047Z",
+  "doc_id": null,
+  "user_id": "6f379162-c91e-4aca-94cb-ed0fd5702011",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "342b900b-72cd-4643-8cf2-21d0c51a3aa1",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/stacey-ellison\" class=\"underline text-blue-600\">Stacey Ellison</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>Usually when I am teaching with multi-text it is a compare and contrast situtation. I like the idea of using these as building blocks even if they don&#39;t all agree. Giving students the info/tools to form an opinion first is huge. We ask them to make choices and decisions all the time and then judge those choices because they haven&#39;t based them on anything. I have no idea why everyone isn&#39;t doing this!</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>I have students have conversation at their table or with a partner regularly. If class is silent during discussions or we are stuck on an idea. They are very good at sharing ideas with each other and willing to talk freely. I established at the beginning of the year it is okay to say &quot;at my table we said&quot; or &quot;so &amp; so said&quot; to take pressure off of them self. The most challenging part of writing for students is getting the first words down. In the last years have started saying put down whatever words are in your head, we can make them better. They don&#39;t understand revise!</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

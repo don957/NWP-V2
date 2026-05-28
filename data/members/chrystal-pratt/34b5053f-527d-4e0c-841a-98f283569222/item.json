@@ -1,0 +1,20 @@
+{
+  "id": "34b5053f-527d-4e0c-841a-98f283569222",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-31T01:55:35.627492Z",
+  "updated_at": "2026-04-07T15:05:00.860977Z",
+  "doc_id": null,
+  "user_id": "3249ab66-89a3-4445-9610-822ec0bec2c4",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "18517297-f0d7-4267-812b-d5dad1a8248e",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/chrystal-pratt\" class=\"underline text-blue-600\">Chrystal Pratt</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>This is the first time I have used layered reading and writing to teach argumentative writing. Teaching special education, argumentative writing, I have always taught as an interest-based approach. Students write about what they know and interests them. There may be times in their high school career where arguments need cited and are fact-based instead of just opinionated. They really struggled with forming their own claims and the whole instruction was very uided.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>We have a very open-discussion type of classroom where all opinions are valued, even if we disagree. We discuss even touchy subjects like politics without students getting heated or finger pointing. My biggest challenge has been getting students to form their own ideas. Like I mentioned before this has all been very guided for them.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

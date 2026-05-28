@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>glenita-montgomery - Badge Requests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f3f4f6;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        .badge-count {
+            color: #6b7280;
+        }
+        .requests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .request-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .request-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .request-id {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.75rem;
+            color: #9ca3af;
+            word-break: break-all;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../" class="back-link">← Back</a>
+
+        <div class="header">
+            <h1>glenita-montgomery</h1>
+            <p class="badge-count">8 badge requests</p>
+        </div>
+
+        <div class="requests-grid">
+            <a href="2ffd3d56-1eec-48a6-931c-9bb8989ebc02/item.html" class="request-card">
+                <div class="request-id">2ffd3d56-1eec-48a6-931c-9bb8989ebc02</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="3f09f2d4-567d-4a98-81e9-2ce36da381e5/item.html" class="request-card">
+                <div class="request-id">3f09f2d4-567d-4a98-81e9-2ce36da381e5</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="6389501f-63d7-4c32-9895-b4fc249e1046/item.html" class="request-card">
+                <div class="request-id">6389501f-63d7-4c32-9895-b4fc249e1046</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="8f7c041c-60e1-42f9-af74-c8c557ea931d/item.html" class="request-card">
+                <div class="request-id">8f7c041c-60e1-42f9-af74-c8c557ea931d</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="9573571a-e57f-4efc-afeb-b744be13df28/item.html" class="request-card">
+                <div class="request-id">9573571a-e57f-4efc-afeb-b744be13df28</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="9873d93a-76e2-4b26-b9f8-0856b64ffc0a/item.html" class="request-card">
+                <div class="request-id">9873d93a-76e2-4b26-b9f8-0856b64ffc0a</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="b29fbd73-d779-46da-8a76-3c84c7dc840c/item.html" class="request-card">
+                <div class="request-id">b29fbd73-d779-46da-8a76-3c84c7dc840c</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="fcaede52-b2dc-496f-8c93-741976d3ad08/item.html" class="request-card">
+                <div class="request-id">fcaede52-b2dc-496f-8c93-741976d3ad08</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

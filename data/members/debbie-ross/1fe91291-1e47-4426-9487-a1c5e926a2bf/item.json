@@ -1,0 +1,21 @@
+{
+  "id": "1fe91291-1e47-4426-9487-a1c5e926a2bf",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2025-11-14T23:08:57.181867Z",
+  "updated_at": "2026-02-27T17:21:50.391641Z",
+  "doc_id": null,
+  "user_id": "46eeca1b-c21e-4a20-96bf-e33df9149274",
+  "badge_id": "aaaa64b3-4805-4743-81a6-e0c59e60a9c2",
+  "form_entry_id": "413a48ec-26d3-429b-bde6-cc2a58aa63fc",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/7770258-Module%201%20Reflective%20Cultivating%20Literacy%20%281%29.png": "assets/1-Module_1_Reflective_Cultivating_Literacy__1_.png",
+    "public/0b87bb0-1000005008 (2).jpg": "assets/2-1000005008__2_.jpg",
+    "public/7770258-Module 1 Reflective Cultivating Literacy (1).png": "assets/1-Module_1_Reflective_Cultivating_Literacy__1_.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/7770258-Module%201%20Reflective%20Cultivating%20Literacy%20%281%29.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/debbie-ross\" class=\"underline text-blue-600\">Debbie Ross</a></div><div><b>Badge:</b> <a href=\"/badge/aaaa64b3-4805-4743-81a6-e0c59e60a9c2\" class=\"underline text-blue-600\">Everyday Sparks</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Writer’s Notebook, Quicklists, or Writing Sprints) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>I really liked the Writing Sprints activity. My students really understood the process and thoroughly enjoyed writing. This activity takes the hard work out of writing for students.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you anticipate will be the biggest challenge in bringing daily writing into your classroom, and how might you address it?:</div><div class=\"flex flex-col gap-2\"><p>My students are currently writing daily, but this activity will provide my students with topics at hand.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How often do you see yourself using a routine writing practice with students?:</div><div class=\"flex flex-col gap-5\"><div class=\"flex gap-2 items-center\"><input type=\"radio\" disabled=\"disabled\" checked=\"checked\" class=\"appearance-none border-slate-300 checked:bg-slate-300 checked:hover:bg-slate-300\"/>\n      Daily\n    </div><div class=\"flex gap-2 items-center\"><input type=\"radio\" disabled=\"disabled\" class=\"appearance-none border-slate-300 checked:bg-slate-300 checked:hover:bg-slate-300\"/>\n      2-3 times per week\n    </div><div class=\"flex gap-2 items-center\"><input type=\"radio\" disabled=\"disabled\" class=\"appearance-none border-slate-300 checked:bg-slate-300 checked:hover:bg-slate-300\"/>\n      Weekly\n    </div><div class=\"flex gap-2 items-center\"><input type=\"radio\" disabled=\"disabled\" class=\"appearance-none border-slate-300 checked:bg-slate-300 checked:hover:bg-slate-300\"/>\n      Other\n    </div></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Upload a sample Quicklist, Writing Sprint directions, or Writer’s Notebook setup you’ve drafted for your students.:</div><div class=\"w-64 h-64\"><img class=\"w-full h-full object-cover\" src=\"https://s3.amazonaws.com/participate-community/public/0b87bb0-1000005008%20%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVPMUYZRFOOZHXWMJ%2F20260528%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260528T141628Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=50630629a84606b434851f4d543fbc5ec9e9a395019bf57503804c14bb5c4350\"/></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

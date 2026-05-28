@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sara-newberry - Badge Requests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f3f4f6;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        .badge-count {
+            color: #6b7280;
+        }
+        .requests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .request-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .request-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .request-id {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.75rem;
+            color: #9ca3af;
+            word-break: break-all;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../" class="back-link">← Back</a>
+
+        <div class="header">
+            <h1>sara-newberry</h1>
+            <p class="badge-count">8 badge requests</p>
+        </div>
+
+        <div class="requests-grid">
+            <a href="2f7decaa-ec63-4278-9ac9-1c11c05100b9/item.html" class="request-card">
+                <div class="request-id">2f7decaa-ec63-4278-9ac9-1c11c05100b9</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="3dab950c-1f77-4b5e-8c53-eba2a3eb4109/item.html" class="request-card">
+                <div class="request-id">3dab950c-1f77-4b5e-8c53-eba2a3eb4109</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="3f2bd47c-8208-4d93-b589-336f10b60088/item.html" class="request-card">
+                <div class="request-id">3f2bd47c-8208-4d93-b589-336f10b60088</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="5d601a16-9cfb-4be6-af28-ac88d214ed32/item.html" class="request-card">
+                <div class="request-id">5d601a16-9cfb-4be6-af28-ac88d214ed32</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="6a7a43b0-f23f-4b15-9981-dedbb43cd68c/item.html" class="request-card">
+                <div class="request-id">6a7a43b0-f23f-4b15-9981-dedbb43cd68c</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="6bd906ed-56f5-45c7-ada4-50827e8b2b7a/item.html" class="request-card">
+                <div class="request-id">6bd906ed-56f5-45c7-ada4-50827e8b2b7a</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="7dc8c5e9-632a-43d8-8392-f391df2f5d2f/item.html" class="request-card">
+                <div class="request-id">7dc8c5e9-632a-43d8-8392-f391df2f5d2f</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="bc0eca53-b33f-43a0-a111-b0aff536cc41/item.html" class="request-card">
+                <div class="request-id">bc0eca53-b33f-43a0-a111-b0aff536cc41</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

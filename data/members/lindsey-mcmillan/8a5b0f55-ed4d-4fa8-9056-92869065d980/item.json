@@ -1,0 +1,20 @@
+{
+  "id": "8a5b0f55-ed4d-4fa8-9056-92869065d980",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-23T17:33:39.842911Z",
+  "updated_at": "2026-04-07T14:09:45.551781Z",
+  "doc_id": null,
+  "user_id": "d36ba158-b02f-42a1-aa1c-c18d7aae1189",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "6e4a6d93-590a-40f0-9868-115ccf50201b",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/lindsey-mcmillan\" class=\"underline text-blue-600\">Lindsey McMillan</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>With the units I teach now that require reading multiple articles for research, students think about and write their claim/thesis before reading anything. That&#39;s the way I was taught to teach claim and thesis, and I have never changed the way I teach it. This new process I&#39;m learning is not only refreshing, but also necessary for students to really learn about bias and critical thinking. I do think this process will be harder for students at first. My students are so used to having their minds made up and opinions formed when going into research that I fear there will be pushback from some. However, I do think the way I approach our argumentative unit will help my students realize they can have a more open mind while researching a topic. I also think once students get used to reading different viewpoints, this idea will hopefully travel outside of my classroom, and students will use this concept when viewing all things in life.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>Discussion in my classroom is not great right now. We use turn and talk some but not as much as we should. As I&#39;m working on this process with my students, I&#39;m noticing that they want to share ideas and be heard. I&#39;m also noticing how much discussion benefits my struggling learners. I think the biggest challenge I&#39;ve encountered with our discussions are students not staying on topic or arguments taking the place of a discussion. I need to have strategies in place to avoid these things from happening in the future.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

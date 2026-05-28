@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sandy-degonia - Badge Requests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f3f4f6;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        .badge-count {
+            color: #6b7280;
+        }
+        .requests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .request-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .request-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .request-id {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.75rem;
+            color: #9ca3af;
+            word-break: break-all;
+            margin-bottom: 1rem;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: #3b82f6;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../" class="back-link">← Back</a>
+
+        <div class="header">
+            <h1>sandy-degonia</h1>
+            <p class="badge-count">8 badge requests</p>
+        </div>
+
+        <div class="requests-grid">
+            <a href="0d5c3306-17e9-4a9f-a670-667518571dfd/item.html" class="request-card">
+                <div class="request-id">0d5c3306-17e9-4a9f-a670-667518571dfd</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="73f82dac-c4ff-4f14-b1da-ca32eb8414da/item.html" class="request-card">
+                <div class="request-id">73f82dac-c4ff-4f14-b1da-ca32eb8414da</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="96726735-a7f0-461e-936e-9210b90ae0ff/item.html" class="request-card">
+                <div class="request-id">96726735-a7f0-461e-936e-9210b90ae0ff</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="b0f62df1-6efe-4e34-b2c4-9a7f3055448e/item.html" class="request-card">
+                <div class="request-id">b0f62df1-6efe-4e34-b2c4-9a7f3055448e</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="baf340ee-9e05-41aa-8a7b-e84d7da93374/item.html" class="request-card">
+                <div class="request-id">baf340ee-9e05-41aa-8a7b-e84d7da93374</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="cd005da2-66a7-4b6a-a010-92899f250389/item.html" class="request-card">
+                <div class="request-id">cd005da2-66a7-4b6a-a010-92899f250389</div>
+                <div class="status-badge" style="background-color: #f59e0b">SUBMITTED</div>
+            </a>
+            <a href="dd3531f9-7733-44b5-9b3b-4c6c65fa2864/item.html" class="request-card">
+                <div class="request-id">dd3531f9-7733-44b5-9b3b-4c6c65fa2864</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+            <a href="ddb6f9f9-cb35-4e7d-a6b1-e4bb424e9d45/item.html" class="request-card">
+                <div class="request-id">ddb6f9f9-cb35-4e7d-a6b1-e4bb424e9d45</div>
+                <div class="status-badge" style="background-color: #10b981">AWARDED</div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

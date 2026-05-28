@@ -1,0 +1,20 @@
+{
+  "id": "6389501f-63d7-4c32-9895-b4fc249e1046",
+  "status": "submitted",
+  "type": "badge_request",
+  "inserted_at": "2026-04-04T14:03:45.627770Z",
+  "updated_at": "2026-04-15T16:19:53.700403Z",
+  "doc_id": null,
+  "user_id": "d78fb08e-070d-48ea-bbc2-8bd63f02a71b",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "e02395e8-04c9-45dd-9bb8-737b4ec27bb7",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/glenita-montgomery\" class=\"underline text-blue-600\">Glenita Montgomery</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I think my biggest surprise was that I can tie so much more discussions, writings, and graphics into math instruction. There are quite a few students who are limited English speaking in our school and they really struggle with making connections in their learning. We tried to really focus more on vocabulary development and writing about thinking. I will definitely continue to explore ways to incorporate more writing opportunities into my instruction.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>I saw a shift in engagement as the school year went on. I think it had a lot to do with the fact that the students were being exposed to these practices in multiple different subjects with various teachers.</div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>One pattern that I noticed was that early on the students were reluctant to engage with the materials, but as the year went on and they continuously saw those strategies come up in multiple teachers&#39; classrooms, they became more comfortable with using them. I am curious to explore how other content area teachers, especially math, incorporated these lessons.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

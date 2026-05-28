@@ -1,0 +1,20 @@
+{
+  "id": "5c0be57b-f39c-4b37-afd9-af046c807382",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-08T14:18:37.218532Z",
+  "updated_at": "2026-04-21T14:32:04.334719Z",
+  "doc_id": null,
+  "user_id": "5db7d423-19bb-466b-8e47-0a15e9b3a64b",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "927816b2-4768-46b9-8d5f-5740f9d90b80",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/anna-cummins\" class=\"underline text-blue-600\">Anna Cummins</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that students CAN have stamina when it comes to writing when it&#39;s a topic that is relevant to them. They were willing to read all three pieces and gain the knowledge to write what they needed to. &quot;Layering&quot; gives them the time and the depth they need to write something meaningful. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>I am thinking of a time when one of my classes wanted more time to discuss and then they wanted to share out with the entire class what they discussed in their groups. I added that part in the process with my other classes because it was something they really wanted to do. I knew at that point that the writing was going to be pretty good because all the thinking was happening. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>I see a lot students not really knowing how to write a claim without saying &quot;I believe&quot; or &quot;My claim is&quot; so I needed to go over how to just state a claim without all the fluff. One question I have is if my paragraph structure elements were &quot;too organized&quot; for them and maybe I should have given them more freedom to structure it how they wanted. With 7th grade it&#39;s always a fine line between scaffolding too much or not enough. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

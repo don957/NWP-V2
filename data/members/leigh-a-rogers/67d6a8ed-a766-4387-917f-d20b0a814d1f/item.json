@@ -1,0 +1,20 @@
+{
+  "id": "67d6a8ed-a766-4387-917f-d20b0a814d1f",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-31T21:38:02.027012Z",
+  "updated_at": "2026-04-06T18:37:46.209656Z",
+  "doc_id": null,
+  "user_id": "46bd3f8e-85b5-4ca2-a69b-9e2487a19f0d",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "00cce87a-64a1-40a0-92d9-4da361de2601",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/leigh-a-rogers\" class=\"underline text-blue-600\">Leigh A Rogers</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>I love how the Atwoodian Table helps students visualize the different perspectives happening in a conversation. The simple graphic organizer helps students not only differentiate voices but also summarize those points to make sure they completely understand the author’s perspective before trying to integrate quotes. I even like the idea of having no quotes in the summary pieces so that students don’t lean on picking random quotes. This would teach students how these summaries can work to create context and analysis that exists around a quote when we choose to incorporate it into our writing. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>In the past, I have tried to have students just read and annotate different arguments, and they struggled to synthesize and bring those sources together in a conversation. Activities like this help students see this in a concept they understand, such as people sitting around a table, then asks how they would respond to the conversation with their own opinion. I have had a lot of success in this approach verses just throwing them in the deep end as I used to do. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>What I love about the different perspectives in the article is how they are clearly all related to reach other in topic, but each of them has a little bit of a different perspective of what that means in detail. Each of them seemed to have their own suggestion on technology or how they incorporate technology in their lives. This helps me understand that when selecting texts, I want to find texts that are easily relatable but that also offer something new to the argument. This will help me explain how thesis statements are specific and debatable as well. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

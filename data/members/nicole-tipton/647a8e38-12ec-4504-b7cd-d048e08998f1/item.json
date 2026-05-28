@@ -1,0 +1,20 @@
+{
+  "id": "647a8e38-12ec-4504-b7cd-d048e08998f1",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-27T22:55:03.324173Z",
+  "updated_at": "2026-03-16T11:42:39.527124Z",
+  "doc_id": null,
+  "user_id": "28a3b9aa-27c1-4ff6-9f40-370d5b2c25f9",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "716d532b-6c9d-45f5-bf27-6cbf2f0e905e",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/nicole-tipton\" class=\"underline text-blue-600\">Nicole Tipton</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>The layering reading, writing, and discussion approach feels more intentional.  Most often when teaching argumentative writing, I present a topic and have students immediately pick a side.  They jump in right away to making a claim.  Once they have a claim then they go to find the evidence to support their claims.  Students would read, highlight, discuss briefly, and then draft. They would often produce claims that were technically correct but not deeply reasoned. This approach blends purposeful cycles that allow students to deepen their ideas by revisit texts and adding complexity.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>Right now, talk and discussion play a consistent but somewhat structured role in my classroom. Students regularly engage in partner discussions, small group conversations, and occasional whole-class dialogue before writing. I often use turn-and-talk, think-pair-share, and small-group analysis to help students process a text before moving into a written response. These conversations give students space to clarify their understanding and hear alternative perspectives, especially when we are working with complex texts or argumentative topics. One challenge that I face is structure.  Conversations often drift or are unfocused.  Students don&#39;t know how to include depth into their conversation and move beyond surface level ideas.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

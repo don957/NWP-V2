@@ -1,0 +1,20 @@
+{
+  "id": "dd3531f9-7733-44b5-9b3b-4c6c65fa2864",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-03-31T02:18:41.176399Z",
+  "updated_at": "2026-04-07T15:20:02.851485Z",
+  "doc_id": null,
+  "user_id": "3da877c2-02b2-47d8-a1fe-376ef3cee27c",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "7d045946-bb6b-403d-bab5-f7c94421e76c",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/sandy-degonia\" class=\"underline text-blue-600\">Sandy DeGonia</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>In my resource classroom, students tend to come to me with the writing assignment already in process. It is always difficult for me to take their articles and help them understand how to pull the information out to use in their writing. I believe that the layering strategy could help me reduce the stress of the assignment for my students. I have been given some tools, such as they say/I say, and the seat at the table strategy, to use to help my students feel more confident with forming their own claims. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>We use conversation the majority of the time. When we are working on assignments for other classes, I always ask students to talk to me about what they know and think about the topic. I often find myself saying, &quot;That is a great point, write that&quot;. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

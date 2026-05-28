@@ -1,0 +1,20 @@
+{
+  "id": "2c4d4e85-c506-45c7-a846-6c352db5c21b",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-02-03T17:00:05.004856Z",
+  "updated_at": "2026-02-04T00:03:12.042237Z",
+  "doc_id": null,
+  "user_id": "d36ba158-b02f-42a1-aa1c-c18d7aae1189",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "c172d9ae-57e7-4925-8eb8-c22eda726e54",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/lindsey-mcmillan\" class=\"underline text-blue-600\">Lindsey McMillan</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>For module 1, I chose “Take a Line for a Walk.” I chose this activity because I love it. I can easily bring this into my classroom with pretty much no prep. I’ve used this activity before when working with our novel units. This year, I have students who love to write, but, like most, they need a prompt to help them begin. Using a quote from our novel of the moment has helped them with that. I think they like the idea of being able to let their minds wander, so the stakes are low, and there is definitely more buy-in.  Right now, in my ELA Enrichment class, we are working on nonfiction articles about invasive species. I have never used “Take a Line for a Walk” when working with nonfiction, but I am going to try it. I’m hoping my students&#39; writing from this can eventually lead to a bigger piece of writing about the subject.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>Some other approaches I’ve used in my classroom this year to help my students write more have been allowing them to choose or vote on prompts they’d like to write about. We have a writer&#39;s notebook and try to write in it a few times a week. I put prompt suggestions on a spin wheel, we spin the wheel, and write about whatever prompt wins. Students have loved this!</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

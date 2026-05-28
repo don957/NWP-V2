@@ -1,0 +1,20 @@
+{
+  "id": "0c30fb10-6bff-40f9-85dc-e8be122d9f3e",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-16T00:15:11.528430Z",
+  "updated_at": "2026-04-17T13:28:36.645044Z",
+  "doc_id": null,
+  "user_id": "f2c73882-4209-428b-8f35-33ae08968ab3",
+  "badge_id": "b69d53a3-709e-48bb-8aea-1e7a3748eb1d",
+  "form_entry_id": "59335c7e-c59e-4193-9fc3-628b8b0be4fe",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png",
+    "public/fc3bc20-Module 1 Reflective Sustaining Literacy.png": "assets/1-Module_1_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/fc3bc20-Module%201%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/shelby-vinson\" class=\"underline text-blue-600\">Shelby Vinson</a></div><div><b>Badge:</b> <a href=\"/badge/b69d53a3-709e-48bb-8aea-1e7a3748eb1d\" class=\"underline text-blue-600\">Everyday Sparks 2.0</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which strategy from this module (Daily Schedule, Take a Line for a Walk or Interpreting Visual Texts) feels most immediately usable in your teaching context? Why?:</div><div class=\"flex flex-col gap-2\"><p>I really liked the &quot;Take a Line for a Walk&quot; strategy because it can be immediately used in my biology class! There are some wonderful science cartoons online that I could present to students and do this activity with in order to get students talking. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What other strategies or approaches have you used to engage your students in routine writing over the course of this school year? What, if any, challenges have you encountered in engaging students in sustained routine writing?:</div><div>I have utilized quick writes several times! It can be used to refresh my students&#39; thoughts from last class. For example, I might tell them, &quot;write 5 vestigial structures that we discussed last class and tell me why they might not be useful for humans anymore&quot;. This strategy is great for gauging what students have retained. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1f6e0564-8356-4409-946b-76dfb521f227",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-01T19:37:12.555405Z",
+  "updated_at": "2026-04-06T18:34:55.641548Z",
+  "doc_id": null,
+  "user_id": "46bd3f8e-85b5-4ca2-a69b-9e2487a19f0d",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "8729b700-1ac5-45e8-a6f5-93e3f9b631a5",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/leigh-a-rogers\" class=\"underline text-blue-600\">Leigh A Rogers</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>In the past, I largely worked in the way Phoebe mentioned in his discussion post: read the text, let’s dive into writing. It was exhausting for me. The kids seemed to require so much handholding. They were overwhelmed; I was overwhelmed — it was a lot. Working through their thinking in steps seems to make the process so much more manageable. I notice similarities between Atwoodian table, Jennifer Fletcher’s host conversations, and this activity, but I also feel like they provide their own value. I like the idea of using Atwoodian table when assessing the credibility of a source is important to the writing process. I like host conversations when only working with two texts, and I like layered writing when the conversation is less on who is the author and more on how the conversation is expanding. Based on these categories, I would choose to use each strategy above differently: Atwoodian table in my nonfiction unit, host conversations when looking at different interpretations of Shakespeare, and layered writing when exploring perspectives on an issue, like in our Julius Caesar unit. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>I like to use talk and discuss as an opportunity for students to engage but also as a quick formative assessment to see how well students are understanding content. By just walking around the room and listening in on what they are saying, I can start to determine how is understanding the assignment and who will need more support. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5f37746c-48ed-44d5-a646-6f32fa561886",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-12-21T16:49:09.704981Z",
+  "updated_at": "2026-01-08T13:44:24.792070Z",
+  "doc_id": null,
+  "user_id": "4fa2c396-87ed-4705-9375-fc280fccad7b",
+  "badge_id": "4d7461a3-2cff-4c86-9e7a-38cc46e34f45",
+  "form_entry_id": "401fddf9-9c1f-4184-bf74-244bda51774d",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png",
+    "public/7d26043-1000016167 (1).jpg": "assets/2-1000016167__1_.jpg",
+    "public/dd10246-Module 4 Teacher Cultivating Literacy.png": "assets/1-Module_4_Teacher_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/dd10246-Module%204%20Teacher%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/carissa-schroer\" class=\"underline text-blue-600\">Carissa Schroer</a></div><div><b>Badge:</b> <a href=\"/badge/4d7461a3-2cff-4c86-9e7a-38cc46e34f45\" class=\"underline text-blue-600\">Teacher as Researcher: Cultivating Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise?  How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I had noticed that CER was challenging for several students. When I began using the Say Mean Matter routine, I noticed that the CER answers got stronger. I think that students genuinely did not understand the reasoning piece of CER and I mistook it as cutting a corner. I think the whole process gave me insight into how to model deeper thinking more clearly for student success. It also put a twist on CER to begin with the quote instead of beginning with the claim.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Share one artifact or anecdote from trying out your chosen strategy (e.g., a piece of student work, notes from your Writer’s Notebook, a classroom snapshot, or a brief story from the experience).:</div><div class=\"w-64 h-64\"><img class=\"w-full h-full object-cover\" src=\"https://s3.amazonaws.com/participate-community/public/7d26043-1000016167%20%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVPMUYZRFOOZHXWMJ%2F20260528%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260528T141703Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2c5a03b441b5c40485e59f7687377eda728a3d787d3bdf1cdfece988c511db33\"/></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What new questions or next steps are you leaving this module with? How might you continue to explore or build on this inquiry in your future teaching?:</div><div class=\"flex flex-col gap-2\"><p>I am planning for next year with the idea in mind that I want to do more modeling of the thinking aspect of the answers. I expected students to automatically do the thinking but they need to be explicitly led through with modeling and gradual release. When  I begin next year, I will use Say Mean Matter and Writer&#39;s Notebooks, and other routines I&#39;ve learned with Literacy That Works to lead them through the expected analysis and responses. In some ways, I can&#39;t wait until next year to start the year with these ideas! </p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

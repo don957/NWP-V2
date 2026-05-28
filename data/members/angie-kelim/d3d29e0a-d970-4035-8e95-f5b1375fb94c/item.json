@@ -1,0 +1,20 @@
+{
+  "id": "d3d29e0a-d970-4035-8e95-f5b1375fb94c",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-13T22:12:25.753793Z",
+  "updated_at": "2026-04-14T02:28:47.204767Z",
+  "doc_id": null,
+  "user_id": "21a53b53-c174-4005-8c53-53d38cae9297",
+  "badge_id": "25261bb4-e6ed-4c50-91ab-0dc9d81962de",
+  "form_entry_id": "dd6075a6-824c-4e2a-aba1-5fe606e51f34",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png",
+    "public/9efdc3f-Module 4 Teacher Sustaining Literacy.png": "assets/1-Module_4_Teacher_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/9efdc3f-Module%204%20Teacher%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/angie-kelim\" class=\"underline text-blue-600\">Angie Kelim</a></div><div><b>Badge:</b> <a href=\"/badge/25261bb4-e6ed-4c50-91ab-0dc9d81962de\" class=\"underline text-blue-600\">Teacher as Researcher | Sustaining Literacy Routines</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Looking back on this inquiry cycle, what did you learn about your teaching and your students that you might not have noticed otherwise? How did engaging in this teacher-research process shape or shift your thinking about your classroom practice?:</div><div class=\"flex flex-col gap-2\"><p>I learned that some of my students aren&#39;t performing to their best abilities a lot of the time; I was quite surprised at the work and focus I got out of some of them. I feel I need to up my teaching game a bit to give them a chance to reach their full potential.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Think back to a moment during the lesson sequence that stands out. It could be a comment from a student, an unexpected challenge or success, a shift in engagement, or a moment when your own thinking changed. Describe what happened and why this moment feels meaningful to you now. What does it reveal:</div><div>I got quite a bit of push back when it came time for the students to write. I was surprised by one student who complained about the process, then her writing was very passive-aggressive (&quot;we had to watch a video,&quot; &quot;we had to read an article,&quot; etc.) but then her final paragraph changed tone and said she was glad we did this activity...it just reinforces that we should continue to push our students; they will be grateful for it at some point. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">As you look over the drafts your students produced in this lesson sequence, what early patterns, surprises, or questions are emerging for you? What aspects of your students’ writing are you most curious to explore more deeply with colleagues during our April regroup? What, if any, questions do you h:</div><div>I actually didn&#39;t read the drafts until we were AT the regroup, and then I didn&#39;t get very far because the first one I read I was struggling with; that particular piece of writing is more like random words on paper than actually being related to any of the texts. I do plan to go through and read the rest of them, and I do think this is an activity I&#39;ll utilize in the future.</div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "84816a49-bb78-476f-b58d-40e2a4f66462",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-29T20:03:03.430210Z",
+  "updated_at": "2026-04-29T20:41:42.460450Z",
+  "doc_id": null,
+  "user_id": "fb92fb43-1328-4b23-bd9a-e1ceff7709cf",
+  "badge_id": "ef604b51-72aa-46c0-9326-1ea6ca228171",
+  "form_entry_id": "9dc44bda-3618-4efb-8562-5250b2cc1abf",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png",
+    "public/97802d5-Module 3 Reflective Sustaining Literacy.png": "assets/1-Module_3_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/97802d5-Module%203%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/gretchen-haer\" class=\"underline text-blue-600\">Gretchen Haer</a></div><div><b>Badge:</b> <a href=\"/badge/ef604b51-72aa-46c0-9326-1ea6ca228171\" class=\"underline text-blue-600\">Layering Reading, Writing and Thinking</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Layering Reading, Writing, and Discussion approach compare to how you have previously supported students in engaging with multiple texts or teaching argument writing? How might this process shift or refine the way you guide students toward forming their own claims?:</div><div class=\"flex flex-col gap-2\"><p>The layering reading, writing and discussion approach helps keep the end goal in focus for me as a teacher. I often get focused on the material I am showing students, and that is all I am doing: exposing them to material and not giving them an opportunity to respond. However, this method holds me AND the students accountable to getting a response. I love how this strategy&#39;s process also encourages synthesis. Introduce one source, develop that source&#39;s ideas on the atwoodian table, then move on to the next, all while developing your own opinions. IT IS JUST BEAUTIFUL. The discussion portion forces me to put the time aside for discussion as well. I often think that is &#39;unproductive&#39; class time. This ensures that it is productive.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How would you describe the role of talk and discussion in your classroom right now?  What kinds of opportunities do students have to rehearse ideas through conversation? What challenges have you encountered in making talk a meaningful part of the writing process?:</div><div>My challenge comes from pulling texts. How do I know the texts I pull are appropriate and rigorous enough? It was nice when the texts were given to me. However, even with  my classroom resources I can find ways to adapt and use this method with it. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

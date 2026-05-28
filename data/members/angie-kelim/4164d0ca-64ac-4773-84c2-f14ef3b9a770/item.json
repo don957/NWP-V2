@@ -1,0 +1,20 @@
+{
+  "id": "4164d0ca-64ac-4773-84c2-f14ef3b9a770",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-11-19T21:56:34.508831Z",
+  "updated_at": "2025-11-23T17:19:17.230651Z",
+  "doc_id": null,
+  "user_id": "21a53b53-c174-4005-8c53-53d38cae9297",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "8b90306d-4f82-40cc-b9cb-af66be67c1fb",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/angie-kelim\" class=\"underline text-blue-600\">Angie Kelim</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>I believe it would be best to begin with They Say / I Say using visual texts. Many of our students are testing below grade level in reading (some of them being multiple grades below), so I think visual texts would go much further with them; they’d be better able to pull meaning from pictures than from something with a lot of text that they may not understand.</p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>One adaptation I plan to make is to use visual texts to kick off a new unit or lesson, and perhaps have a small version of the photo available to students to tape into their writer’s notebook when we do the KWL to help remind them of exactly what we’re studying. They can refer back to the photos often and come up with additional questions or write in answers to questions they’ve already asked. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>I struggle to get information into a format or at a level that a majority of our students can understand, largely because of their low reading and math scores; reading comprehension and math abilities are both pretty important for scientific studies. We also have several students who, perhaps because of the deficits, have simply decided that they don’t care and they won’t put forth any real effort. How do you get junior high or high school students to start caring about school again?</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

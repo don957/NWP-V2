@@ -1,0 +1,20 @@
+{
+  "id": "316cd8e1-3dc9-4095-87de-fa8a7e2c92b8",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2026-04-29T19:53:26.239178Z",
+  "updated_at": "2026-04-29T20:44:02.093503Z",
+  "doc_id": null,
+  "user_id": "fb92fb43-1328-4b23-bd9a-e1ceff7709cf",
+  "badge_id": "b2d53def-abff-4413-9f7e-56e30ba8b36b",
+  "form_entry_id": "5a81453f-47b4-4ec5-ad2c-9e0b283823fe",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png",
+    "public/566c0b5-Module 2 Reflective Sustaining Literacy.png": "assets/1-Module_2_Reflective_Sustaining_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/566c0b5-Module%202%20Reflective%20Sustaining%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/gretchen-haer\" class=\"underline text-blue-600\">Gretchen Haer</a></div><div><b>Badge:</b> <a href=\"/badge/b2d53def-abff-4413-9f7e-56e30ba8b36b\" class=\"underline text-blue-600\">Joining a Conversation</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What is one insight you gained from completing the Atwoodian Table yourself that might shape how you introduce it to students?:</div><div class=\"flex flex-col gap-2\"><p>My favorite part of the Atwoodian table was the quote given about joining the conversation. I loved the concept that these topics we have our students writing about aren&#39;t new topics. These are conversations that have been had for thousands and thousands of years. So I LOVED the idea of joining the conversation of a long-time conversation. I&#39;ve never had a graphic organizer that spoke to me in a sense. I loved it so much I immediately introduced it to my students. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">How does the Atwoodian Table idea compare to how you have taught argument and/or responding to multiple texts in the past?:</div><div>It helped me explain synthesizing to students. How are you developing your opinion based off of others. We don&#39;t just magically come up our arguments. We develop them through learning about others opinions and expertise. </div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What do you notice about the two sets of excerpts in this module (children in fancy restaurants and toddlers and technology)? How do the excerpts work together to invite students to join the conversation? What are some conversations related to topics you teach?:</div><div>Our students are closer to childhood than we are so they are going to be closer to the topic for one. And 2, it is a safe topic to start on. These aren&#39;t especailly emotionally charged arguments. Our students (hopefull) don&#39;t have children so they probably aren&#39;t super invested in the idea of technology with toddlers. It introduces the atwoodian table with a safe topic before going to an emotionally charged one. </div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}

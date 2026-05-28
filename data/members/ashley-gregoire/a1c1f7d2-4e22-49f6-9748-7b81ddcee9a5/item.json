@@ -1,0 +1,20 @@
+{
+  "id": "a1c1f7d2-4e22-49f6-9748-7b81ddcee9a5",
+  "status": "awarded",
+  "type": "badge_request",
+  "inserted_at": "2025-12-29T17:34:31.255785Z",
+  "updated_at": "2026-01-06T00:08:27.820601Z",
+  "doc_id": null,
+  "user_id": "a729dbed-304f-4156-8b0c-2d0f15576de8",
+  "badge_id": "913634e9-4cfb-4cfc-8c54-c2cebc301d7e",
+  "form_entry_id": "89e1f159-5026-4d11-b8ae-5c83472c3b13",
+  "asset_errors": [],
+  "asset_map": {
+    "/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png",
+    "public/a11cab2-Module 2 Reflective Cultivating Literacy.png": "assets/1-Module_2_Reflective_Cultivating_Literacy.png"
+  },
+  "original_html": "<h1 id=\"primary-heading\" class=\"sr-only\">Home</h1><div class=\"flex flex-col gap-8\"><div class=\"bg-white p-4 shadow rounded-lg sticky top-8\"><div class=\"flex justify-between items-center\"><div class=\"flex flex-col sm:flex-row sm:items-center gap-4\"><div class=\"w-12 h-12\"><img class=\"object-cover rounded-md w-full h-full\" src=\"/img/k/public/a11cab2-Module%202%20Reflective%20Cultivating%20Literacy.png\" alt=\"Badge or credential logo image\"/></div><div class=\"flex flex-col\"><div><b>Name:</b> <a href=\"/u/ashley-gregoire\" class=\"underline text-blue-600\">Ashley Gregoire</a></div><div><b>Badge:</b> <a href=\"/badge/913634e9-4cfb-4cfc-8c54-c2cebc301d7e\" class=\"underline text-blue-600\">Reading to Write: They Say / I Say</a></div></div></div><div></div></div></div><section title=\"Request responses\" class=\"w-full space-y-5 bg-white p-4\"><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Which version of the They Say / I Say routine (with visual texts or with annotation) feels like the best fit for your students right now? Why?:</div><div class=\"flex flex-col gap-2\"><p>The version of They Say/I say routine that best fits my students right now is with visual texts. I teach World History, and it is often hard for my students to understand different cultures around the world, so I use visuals as well as videos. For example, I teach about the eight features of a civilization. One feature of the civilization is writing. I show examples of cuneiform writing and the importance. I finish the lesson by allowing students to practice cuneiform writing and writing about their experience. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">Describe one way you might adapt the They Say / I Say framework to align with the types of texts your students read most often (e.g., articles, visuals, multimodal texts).:</div><div class=\"flex flex-col gap-2\"><p>I would align this framework with visuals, articles, and movie clips. When students have a format, I will be able to see if they understand the lesson being taught. </p></div></div><div class=\"flex flex-col gap-2\"><div class=\"font-bold\">What, if anything, do you need help thinking through as you plan for using They Say / I Say in your classroom?:</div><div class=\"flex flex-col gap-2\"><p>No.</p></div></div></section></div>",
+  "ownership_reason": "owned",
+  "source_place_type": "community",
+  "source_place_id": "85d2b773-2be9-48e7-bd26-fb8fedd1356e"
+}
