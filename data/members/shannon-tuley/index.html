@@ -86,7 +86,62 @@
         .back-link:hover {
             text-decoration: underline;
         }
+        .html-viewer {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            z-index: 1000;
+        }
+        .html-container {
+            width: 90%;
+            height: 90%;
+            margin: 5% auto;
+            background: white;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+        }
+        .html-toolbar {
+            padding: 1rem;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .html-frame {
+            flex: 1;
+            overflow: auto;
+            border: none;
+            width: 100%;
+        }
+        .close-btn {
+            background: #ef4444;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .close-btn:hover {
+            background: #dc2626;
+        }
     </style>
+    <script>
+        function openHTML(url) {
+            const viewer = document.getElementById('htmlViewer');
+            const iframe = document.getElementById('htmlFrame');
+            iframe.src = url;
+            viewer.style.display = 'block';
+        }
+
+        function closeHTML() {
+            document.getElementById('htmlViewer').style.display = 'none';
+        }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -98,38 +153,88 @@
         </div>
 
         <div class="requests-grid">
-            <a href="3f5fb3a9-64e8-4601-aaa8-a3a6a931e977/item.html" class="request-card">
+            <div class="request-card">
                 <div class="badge-image-container"><img src="3f5fb3a9-64e8-4601-aaa8-a3a6a931e977/assets/1-Module_4_Teacher_Sustaining_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="48dc5eb4-e708-44d9-a43f-a27c82a00dce/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/3f5fb3a9-64e8-4601-aaa8-a3a6a931e977/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/3f5fb3a9-64e8-4601-aaa8-a3a6a931e977/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="48dc5eb4-e708-44d9-a43f-a27c82a00dce/assets/1-Module_4_Teacher_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="6a8818f1-0f07-4abb-985c-5d08490236c2/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/48dc5eb4-e708-44d9-a43f-a27c82a00dce/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/48dc5eb4-e708-44d9-a43f-a27c82a00dce/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="6a8818f1-0f07-4abb-985c-5d08490236c2/assets/1-Module_3_Reflective_Sustaining_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="6fd676d1-a2f2-4d69-b879-50c89848fc2c/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/6a8818f1-0f07-4abb-985c-5d08490236c2/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/6a8818f1-0f07-4abb-985c-5d08490236c2/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="6fd676d1-a2f2-4d69-b879-50c89848fc2c/assets/1-Module_2_Reflective_Sustaining_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="7c4a84d8-c2ed-4148-8801-047b3a3bbfdb/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/6fd676d1-a2f2-4d69-b879-50c89848fc2c/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/6fd676d1-a2f2-4d69-b879-50c89848fc2c/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="7c4a84d8-c2ed-4148-8801-047b3a3bbfdb/assets/1-Module_1_Reflective_Cultivating_Literacy__1_.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="b4c3ed2f-9914-4fee-96b3-fe9f21d55863/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/7c4a84d8-c2ed-4148-8801-047b3a3bbfdb/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/7c4a84d8-c2ed-4148-8801-047b3a3bbfdb/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="b4c3ed2f-9914-4fee-96b3-fe9f21d55863/assets/1-Module_3_Community_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="d92f484c-4c57-4a8a-a2c3-5c1eb514c85d/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/b4c3ed2f-9914-4fee-96b3-fe9f21d55863/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/b4c3ed2f-9914-4fee-96b3-fe9f21d55863/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="d92f484c-4c57-4a8a-a2c3-5c1eb514c85d/assets/1-Module_1_Reflective_Sustaining_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
-            <a href="e501f8bb-e2f5-40e1-bb61-e851badd23e2/item.html" class="request-card">
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/d92f484c-4c57-4a8a-a2c3-5c1eb514c85d/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/d92f484c-4c57-4a8a-a2c3-5c1eb514c85d/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+            <div class="request-card">
                 <div class="badge-image-container"><img src="e501f8bb-e2f5-40e1-bb61-e851badd23e2/assets/1-Module_2_Reflective_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
-            </a>
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button onclick="openHTML('../../badge_requests/e501f8bb-e2f5-40e1-bb61-e851badd23e2/item.html')" style="flex: 1; padding: 0.5rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer;">View Details</button>
+                    <a href="../../badge_requests/e501f8bb-e2f5-40e1-bb61-e851badd23e2/item.html" target="_blank" style="flex: 1; padding: 0.5rem; background: #6b7280; color: white; text-decoration: none; border-radius: 4px; text-align: center;">Open</a>
+                </div>
+                
+            </div>
+        </div>
+
+        <div id="htmlViewer" class="html-viewer" onclick="if(event.target === this) closeHTML()">
+            <div class="html-container">
+                <div class="html-toolbar">
+                    <h2 style="margin: 0;">Badge Request Details</h2>
+                    <button class="close-btn" onclick="closeHTML()">Close</button>
+                </div>
+                <iframe id="htmlFrame" class="html-frame"></iframe>
+            </div>
         </div>
     </div>
 </body>
