@@ -52,12 +52,21 @@
             transform: translateY(-2px);
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
-        .request-id {
-            font-family: 'Monaco', 'Courier New', monospace;
-            font-size: 0.75rem;
-            color: #9ca3af;
-            word-break: break-all;
+        .badge-image-container {
+            width: 100%;
+            height: 150px;
+            background: #f0f0f0;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             margin-bottom: 1rem;
+            overflow: hidden;
+        }
+        .badge-image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
         }
         .status-badge {
             display: inline-block;
@@ -90,19 +99,19 @@
 
         <div class="requests-grid">
             <a href="0817dfca-b04a-4b13-8546-5dcfbb053099/item.html" class="request-card">
-                <div class="request-id">0817dfca-b04a-4b13-8546-5dcfbb053099</div>
+                <div class="badge-image-container"><img src="0817dfca-b04a-4b13-8546-5dcfbb053099/assets/1-Module_1_Reflective_Cultivating_Literacy__1_.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
             </a>
             <a href="11e09759-d0f7-42e1-9ee4-8eeadb0b645e/item.html" class="request-card">
-                <div class="request-id">11e09759-d0f7-42e1-9ee4-8eeadb0b645e</div>
+                <div class="badge-image-container"><img src="11e09759-d0f7-42e1-9ee4-8eeadb0b645e/assets/1-Module_2_Reflective_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
             </a>
             <a href="1b36b38f-5e77-4ea7-a246-898aa7fdba84/item.html" class="request-card">
-                <div class="request-id">1b36b38f-5e77-4ea7-a246-898aa7fdba84</div>
+                <div class="badge-image-container"><img src="1b36b38f-5e77-4ea7-a246-898aa7fdba84/assets/1-Module_3_Community_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
             </a>
             <a href="fbd30b0f-4400-4189-a47f-5ee3654069b6/item.html" class="request-card">
-                <div class="request-id">fbd30b0f-4400-4189-a47f-5ee3654069b6</div>
+                <div class="badge-image-container"><img src="fbd30b0f-4400-4189-a47f-5ee3654069b6/assets/1-Module_4_Teacher_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
             </a>
         </div>

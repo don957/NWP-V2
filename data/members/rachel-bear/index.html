@@ -52,12 +52,21 @@
             transform: translateY(-2px);
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
-        .request-id {
-            font-family: 'Monaco', 'Courier New', monospace;
-            font-size: 0.75rem;
-            color: #9ca3af;
-            word-break: break-all;
+        .badge-image-container {
+            width: 100%;
+            height: 150px;
+            background: #f0f0f0;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             margin-bottom: 1rem;
+            overflow: hidden;
+        }
+        .badge-image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
         }
         .status-badge {
             display: inline-block;
@@ -90,7 +99,7 @@
 
         <div class="requests-grid">
             <a href="fd24b763-045c-4b9a-93bd-c57659729815/item.html" class="request-card">
-                <div class="request-id">fd24b763-045c-4b9a-93bd-c57659729815</div>
+                <div class="badge-image-container"><img src="fd24b763-045c-4b9a-93bd-c57659729815/assets/1-Module_3_Community_Discussion_Cultivating_Literacy.png" alt="Badge"></div>
                 <div class="status-badge" style="background-color: #10b981">AWARDED</div>
             </a>
         </div>
